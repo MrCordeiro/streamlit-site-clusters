@@ -1,0 +1,923 @@
+site_code,zone_name,cluster_name,vendor,latitude,longitude,cluster_id,cluster_rank,cluster_type
+MPT020,B1,Foz,ERICSSON,41.166046,-8.678221,10,0,normalized time-series kmeans
+MPT023,B1,Foz,ERICSSON,41.170546,-8.667399,13,4,normalized time-series kmeans
+MPT022,B1,Foz,ERICSSON,41.155866,-8.664221,10,0,normalized time-series kmeans
+DPT001,B1,Foz,ERICSSON,41.164793,-8.671647,6,10,normalized time-series kmeans
+MPT018,B1,Foz,ERICSSON,41.149073,-8.664945,5,1,normalized time-series kmeans
+MPT019,B1,Foz,ERICSSON,41.173163,-8.672154,12,5,normalized time-series kmeans
+MPT014,B1,Foz,ERICSSON,41.16203,-8.683841,12,5,normalized time-series kmeans
+MPT015,B1,Foz,ERICSSON,41.149363,-8.671653,6,10,normalized time-series kmeans
+MPT021,B1,Foz,ERICSSON,41.162988,-8.665969,13,4,normalized time-series kmeans
+MPT013,B1,Foz,ERICSSON,41.157971,-8.679893,5,1,normalized time-series kmeans
+MPT016,B1,Foz,ERICSSON,41.152348,-8.678048,13,4,normalized time-series kmeans
+MPT017,B1,Foz,ERICSSON,41.154911,-8.674688,12,5,normalized time-series kmeans
+MBR001,B1,Aves,ERICSSON,41.425388,-8.356287,12,5,normalized time-series kmeans
+MBR008,B1,Aves,ERICSSON,41.393361,-8.387251,12,5,normalized time-series kmeans
+MBR010,B1,Aves,ERICSSON,41.408256,-8.372512,10,0,normalized time-series kmeans
+MBR004,B1,Aves,ERICSSON,41.430191,-8.427285,13,4,normalized time-series kmeans
+MBR151,B1,Aves,ERICSSON,41.378121,-8.353213,14,9,normalized time-series kmeans
+MBR009,B1,Aves,ERICSSON,41.440049,-8.413708,12,5,normalized time-series kmeans
+MBR003,B1,Aves,ERICSSON,41.36755,-8.369689,12,5,normalized time-series kmeans
+MPT447,B1,Aves,ERICSSON,41.357498,-8.390224,13,4,normalized time-series kmeans
+MBR005,B1,Aves,ERICSSON,41.379335,-8.419911,13,4,normalized time-series kmeans
+MBR006,B1,Aves,ERICSSON,41.401787,-8.329737,13,4,normalized time-series kmeans
+MBR150,B1,Aves,ERICSSON,41.393889,-8.356844,8,2,normalized time-series kmeans
+MBR011,B1,Aves,ERICSSON,41.370479,-8.394351,12,5,normalized time-series kmeans
+MPT026,B1,Aves,ERICSSON,41.373147,-8.34285,14,9,normalized time-series kmeans
+MBR007,B1,Aves,ERICSSON,41.416222,-8.404518,12,5,normalized time-series kmeans
+MBR002,B1,Aves,ERICSSON,41.378166,-8.31485,13,4,normalized time-series kmeans
+MBR029,B1,Fafe,ERICSSON,41.474223,-8.162686,2,8,normalized time-series kmeans
+MBR030,B1,Fafe,ERICSSON,41.496694,-8.208317,2,8,normalized time-series kmeans
+MBR031,B1,Fafe,ERICSSON,41.408944,-8.231197,2,8,normalized time-series kmeans
+MPT120,B1,Fafe,ERICSSON,41.362921,-8.201658,7,3,normalized time-series kmeans
+MBR032,B1,Fafe,ERICSSON,41.449474,-8.17069,7,3,normalized time-series kmeans
+MBR034,B1,Fafe,ERICSSON,41.460349,-8.183627,14,9,normalized time-series kmeans
+MBR035,B1,Fafe,ERICSSON,41.455952,-8.138951,0,6,normalized time-series kmeans
+MPT115,B1,Fafe,ERICSSON,41.36798,-8.189465,8,2,normalized time-series kmeans
+MBR033,B1,Fafe,ERICSSON,41.4543,-8.214017,0,6,normalized time-series kmeans
+MBR027,B1,Fafe,ERICSSON,41.443887,-8.180362,8,2,normalized time-series kmeans
+MPT503,B1,Fafe,ERICSSON,41.386711,-8.230861,3,11,normalized time-series kmeans
+MBR028,B1,Fafe,ERICSSON,41.407161,-8.262334,13,4,normalized time-series kmeans
+MBR026,B1,Fafe,ERICSSON,41.397841,-8.151597,3,11,normalized time-series kmeans
+MPT124,B1,Fafe,ERICSSON,41.364852,-8.223262,7,3,normalized time-series kmeans
+MBR025,B1,Fafe,ERICSSON,41.422356,-8.197757,1,14,normalized time-series kmeans
+MPT083,B1,Maia,ERICSSON,41.237622,-8.640399,6,10,normalized time-series kmeans
+MPT073,B1,Maia,ERICSSON,41.231371,-8.623728,10,0,normalized time-series kmeans
+MPT084,B1,Maia,ERICSSON,41.224139,-8.608009,12,5,normalized time-series kmeans
+MPT086,B1,Maia,ERICSSON,41.233546,-8.622164,6,10,normalized time-series kmeans
+MPT090,B1,Maia,ERICSSON,41.230687,-8.613077,10,0,normalized time-series kmeans
+MPT078,B1,Maia,ERICSSON,41.246603,-8.620979,14,9,normalized time-series kmeans
+MPT075,B1,Maia,ERICSSON,41.238471,-8.608091,5,1,normalized time-series kmeans
+MPT079,B1,Maia,ERICSSON,41.218693,-8.639142,5,1,normalized time-series kmeans
+MPT085,B1,Maia,ERICSSON,41.222607,-8.62107,14,9,normalized time-series kmeans
+MAV009,B1,Ovar,ERICSSON,40.865468,-8.627005,5,1,normalized time-series kmeans
+MAV006,B1,Ovar,ERICSSON,40.899197,-8.598121,3,11,normalized time-series kmeans
+MAV002,B1,Ovar,ERICSSON,40.88847,-8.614591,6,10,normalized time-series kmeans
+MAV008,B1,Ovar,ERICSSON,40.925011,-8.604794,14,9,normalized time-series kmeans
+MAV003,B1,Ovar,ERICSSON,40.873199,-8.67213,11,7,normalized time-series kmeans
+MAV007,B1,Ovar,ERICSSON,40.856528,-8.568967,12,5,normalized time-series kmeans
+MAV005,B1,Ovar,ERICSSON,40.940102,-8.603136,7,3,normalized time-series kmeans
+MAV010,B1,Ovar,ERICSSON,40.836019,-8.592264,14,9,normalized time-series kmeans
+MAV001,B1,Ovar,ERICSSON,40.859888,-8.628662,1,14,normalized time-series kmeans
+MAV004,B1,Ovar,ERICSSON,40.85767,-8.61153,2,8,normalized time-series kmeans
+MPT330,B1,Antas,ERICSSON,41.148904,-8.57192,0,6,normalized time-series kmeans
+DPT034,B1,Antas,ERICSSON,41.162623,-8.584239,4,13,normalized time-series kmeans
+MPT335,B1,Antas,ERICSSON,41.173804,-8.588545,5,1,normalized time-series kmeans
+DPT036,B1,Antas,ERICSSON,41.162623,-8.584239,4,13,normalized time-series kmeans
+MPT322,B1,Antas,ERICSSON,41.167266,-8.588932,9,12,normalized time-series kmeans
+DPT037,B1,Antas,ERICSSON,41.162623,-8.584239,4,13,normalized time-series kmeans
+MPT333,B1,Antas,ERICSSON,41.169556,-8.597179,5,1,normalized time-series kmeans
+MPT336,B1,Antas,ERICSSON,41.165939,-8.594731,5,1,normalized time-series kmeans
+MPT331,B1,Antas,ERICSSON,41.148082,-8.583485,5,1,normalized time-series kmeans
+MPT323,B1,Antas,ERICSSON,41.161011,-8.578017,8,2,normalized time-series kmeans
+MPT334,B1,Antas,ERICSSON,41.171043,-8.573588,7,3,normalized time-series kmeans
+MPT324,B1,Antas,ERICSSON,41.160616,-8.592142,10,0,normalized time-series kmeans
+MPT325,B1,Antas,ERICSSON,41.155915,-8.580074,10,0,normalized time-series kmeans
+DPT033,B1,Antas,ERICSSON,41.162925,-8.583009,4,13,normalized time-series kmeans
+MBR054,B1,Brito,ERICSSON,41.550358,-8.329989,14,9,normalized time-series kmeans
+MBR057,B1,Brito,ERICSSON,41.520777,-8.355007,11,7,normalized time-series kmeans
+MBR052,B1,Brito,ERICSSON,41.486649,-8.3518,8,2,normalized time-series kmeans
+MBR050,B1,Brito,ERICSSON,41.537548,-8.367859,3,11,normalized time-series kmeans
+MBR053,B1,Brito,ERICSSON,41.463996,-8.33295,14,9,normalized time-series kmeans
+MBR055,B1,Brito,ERICSSON,41.444146,-8.385035,5,1,normalized time-series kmeans
+MBR056,B1,Brito,ERICSSON,41.516953,-8.312189,11,7,normalized time-series kmeans
+MBR059,B1,Brito,ERICSSON,41.452155,-8.357292,8,2,normalized time-series kmeans
+MBR058,B1,Brito,ERICSSON,41.485103,-8.319677,0,6,normalized time-series kmeans
+MBR051,B1,Brito,ERICSSON,41.472373,-8.384733,2,8,normalized time-series kmeans
+MPT125,B1,Trofa,ERICSSON,41.336222,-8.560764,10,0,normalized time-series kmeans
+MPT131,B1,Trofa,ERICSSON,41.372358,-8.664386,7,3,normalized time-series kmeans
+MPT129,B1,Trofa,ERICSSON,41.330089,-8.671821,12,5,normalized time-series kmeans
+MBR047,B1,Trofa,ERICSSON,41.361515,-8.567732,2,8,normalized time-series kmeans
+MPT127,B1,Trofa,ERICSSON,41.311372,-8.630496,5,1,normalized time-series kmeans
+MPT449,B1,Trofa,ERICSSON,41.34199,-8.539676,5,1,normalized time-series kmeans
+MBR041,B1,Trofa,ERICSSON,41.356677,-8.551123,12,5,normalized time-series kmeans
+MPT126,B1,Trofa,ERICSSON,41.311363,-8.59069,12,5,normalized time-series kmeans
+DBR004,B1,Trofa,ERICSSON,41.347927,-8.54107,12,5,normalized time-series kmeans
+MPT128,B1,Trofa,ERICSSON,41.338481,-8.553327,13,4,normalized time-series kmeans
+MBR040,B1,Trofa,ERICSSON,41.372297,-8.608078,12,5,normalized time-series kmeans
+MPT132,B1,Trofa,ERICSSON,41.362515,-8.697602,8,2,normalized time-series kmeans
+MCO093,B1,Vagos,ERICSSON,40.457151,-8.574172,0,6,normalized time-series kmeans
+MAV214,B1,Vagos,ERICSSON,40.471662,-8.640368,2,8,normalized time-series kmeans
+MAV093,B1,Vagos,ERICSSON,40.499938,-8.608456,3,11,normalized time-series kmeans
+MAV097,B1,Vagos,ERICSSON,40.555992,-8.681986,14,9,normalized time-series kmeans
+MAV202,B1,Vagos,ERICSSON,40.499499,-8.571329,12,5,normalized time-series kmeans
+MAV087,B1,Vagos,ERICSSON,40.477108,-8.68762,11,7,normalized time-series kmeans
+MAV104,B1,Vagos,ERICSSON,40.505093,-8.679169,3,11,normalized time-series kmeans
+MAV092,B1,Vagos,ERICSSON,40.547299,-8.718402,1,14,normalized time-series kmeans
+MAV096,B1,Vagos,ERICSSON,40.544046,-8.647855,12,5,normalized time-series kmeans
+MAV084,B1,Vagos,ERICSSON,40.563071,-8.616192,13,4,normalized time-series kmeans
+MCO092,B1,Vagos,ERICSSON,40.448213,-8.700147,14,9,normalized time-series kmeans
+MAV090,B1,Vagos,ERICSSON,40.521614,-8.598284,2,8,normalized time-series kmeans
+MAV095,B1,Vagos,ERICSSON,40.577658,-8.648471,3,11,normalized time-series kmeans
+MAV119,B1,Agueda,ERICSSON,40.548256,-8.397735,12,5,normalized time-series kmeans
+MAV109,B1,Agueda,ERICSSON,40.564302,-8.477645,14,9,normalized time-series kmeans
+MAV117,B1,Agueda,ERICSSON,40.59504,-8.495949,0,6,normalized time-series kmeans
+MAV120,B1,Agueda,ERICSSON,40.544311,-8.450238,14,9,normalized time-series kmeans
+MAV110,B1,Agueda,ERICSSON,40.592532,-8.465029,5,1,normalized time-series kmeans
+MAV107,B1,Agueda,ERICSSON,40.562007,-8.450814,8,2,normalized time-series kmeans
+MAV108,B1,Agueda,ERICSSON,40.624761,-8.46813,0,6,normalized time-series kmeans
+MAV106,B1,Agueda,ERICSSON,40.638368,-8.529303,2,8,normalized time-series kmeans
+MAV113,B1,Agueda,ERICSSON,40.579113,-8.435657,7,3,normalized time-series kmeans
+MAV122,B1,Agueda,ERICSSON,40.535525,-8.367114,3,11,normalized time-series kmeans
+MBR127,B1,Amares,ERICSSON,41.608624,-8.419263,3,11,normalized time-series kmeans
+MBR131,B1,Amares,ERICSSON,41.573893,-8.403381,2,8,normalized time-series kmeans
+MBR144,B1,Amares,ERICSSON,41.590117,-8.426237,8,2,normalized time-series kmeans
+MBR167,B1,Amares,ERICSSON,41.601356,-8.458558,2,8,normalized time-series kmeans
+MBR129,B1,Amares,ERICSSON,41.625243,-8.391444,14,9,normalized time-series kmeans
+MBR121,B1,Amares,ERICSSON,41.568084,-8.38644,14,9,normalized time-series kmeans
+MBR122,B1,Amares,ERICSSON,41.634908,-8.345718,11,7,normalized time-series kmeans
+MBR125,B1,Amares,ERICSSON,41.59537,-8.413047,0,6,normalized time-series kmeans
+MBR130,B1,Amares,ERICSSON,41.574677,-8.366466,10,0,normalized time-series kmeans
+MBR123,B1,Amares,ERICSSON,41.583158,-8.434991,12,5,normalized time-series kmeans
+MBR132,B1,Amares,ERICSSON,41.591202,-8.446031,7,3,normalized time-series kmeans
+MBR124,B1,Amares,ERICSSON,41.600934,-8.363545,14,9,normalized time-series kmeans
+MBR064,B1,Apulia,ERICSSON,41.455053,-8.599091,14,9,normalized time-series kmeans
+MBR067,B1,Apulia,ERICSSON,41.485877,-8.717621,2,8,normalized time-series kmeans
+MBR078,B1,Apulia,ERICSSON,41.476137,-8.566121,13,4,normalized time-series kmeans
+MBR066,B1,Apulia,ERICSSON,41.422556,-8.624926,2,8,normalized time-series kmeans
+MBR137,B1,Apulia,ERICSSON,41.486289,-8.56554,13,4,normalized time-series kmeans
+MBR136,B1,Apulia,ERICSSON,41.51465,-8.648289,3,11,normalized time-series kmeans
+MPT208,B1,Apulia,ERICSSON,41.434502,-8.715102,0,6,normalized time-series kmeans
+MBR070,B1,Apulia,ERICSSON,41.485678,-8.778784,11,7,normalized time-series kmeans
+MPT210,B1,Apulia,ERICSSON,41.410882,-8.672717,0,6,normalized time-series kmeans
+MBR074,B1,Apulia,ERICSSON,41.478183,-8.538727,0,6,normalized time-series kmeans
+MBR072,B1,Apulia,ERICSSON,41.523922,-8.547751,8,2,normalized time-series kmeans
+MPT209,B1,Apulia,ERICSSON,41.425437,-8.776198,5,1,normalized time-series kmeans
+MBR063,B1,Apulia,ERICSSON,41.50916,-8.689432,13,4,normalized time-series kmeans
+MBR065,B1,Apulia,ERICSSON,41.494646,-8.59306,0,6,normalized time-series kmeans
+MPT351,B1,Areosa,ERICSSON,41.178462,-8.582458,5,1,normalized time-series kmeans
+MPT349,B1,Areosa,ERICSSON,41.186571,-8.580618,8,2,normalized time-series kmeans
+MPT343,B1,Areosa,ERICSSON,41.179485,-8.594219,10,0,normalized time-series kmeans
+MPT353,B1,Areosa,ERICSSON,41.19385,-8.578413,12,5,normalized time-series kmeans
+MPT341,B1,Areosa,ERICSSON,41.17857,-8.567959,12,5,normalized time-series kmeans
+MPT354,B1,Areosa,ERICSSON,41.190203,-8.596323,10,0,normalized time-series kmeans
+MPT342,B1,Areosa,ERICSSON,41.184381,-8.604397,10,0,normalized time-series kmeans
+MPT348,B1,Areosa,ERICSSON,41.19994,-8.585959,13,4,normalized time-series kmeans
+MPT352,B1,Areosa,ERICSSON,41.193884,-8.595322,13,4,normalized time-series kmeans
+MAV111,B1,Canedo,ERICSSON,40.951967,-8.513989,3,11,normalized time-series kmeans
+MAV116,B1,Canedo,ERICSSON,41.020184,-8.476629,14,9,normalized time-series kmeans
+MPT299,B1,Canedo,ERICSSON,41.065156,-8.424607,0,6,normalized time-series kmeans
+MAV115,B1,Canedo,ERICSSON,40.968568,-8.517908,14,9,normalized time-series kmeans
+MAV118,B1,Canedo,ERICSSON,40.988432,-8.483014,14,9,normalized time-series kmeans
+MPT298,B1,Canedo,ERICSSON,41.068832,-8.477791,2,8,normalized time-series kmeans
+MPT384,B1,Covelo,ERICSSON,41.163916,-8.621418,12,5,normalized time-series kmeans
+MPT371,B1,Covelo,ERICSSON,41.170816,-8.608744,13,4,normalized time-series kmeans
+MPT376,B1,Covelo,ERICSSON,41.16635,-8.628403,5,1,normalized time-series kmeans
+MPT381,B1,Covelo,ERICSSON,41.171695,-8.626514,10,0,normalized time-series kmeans
+MPT409,B1,Covelo,ERICSSON,41.167468,-8.61143,5,1,normalized time-series kmeans
+MPT369,B1,Covelo,ERICSSON,41.163711,-8.631255,10,0,normalized time-series kmeans
+MPT368,B1,Covelo,ERICSSON,41.163707,-8.613459,10,0,normalized time-series kmeans
+MPT365,B1,Covelo,ERICSSON,41.172428,-8.605886,10,0,normalized time-series kmeans
+MPT367,B1,Covelo,ERICSSON,41.166101,-8.602395,10,0,normalized time-series kmeans
+MPT385,B1,Covelo,ERICSSON,41.17109,-8.615107,5,1,normalized time-series kmeans
+MCO028,B1,Pombal,ERICSSON,40.048515,-8.560841,0,6,normalized time-series kmeans
+MLR078,B1,Pombal,ERICSSON,39.995825,-8.611843,0,6,normalized time-series kmeans
+MLR010,B1,Pombal,ERICSSON,39.950813,-8.671976,0,6,normalized time-series kmeans
+MLR009,B1,Pombal,ERICSSON,39.873951,-8.701985,14,9,normalized time-series kmeans
+MLR004,B1,Pombal,ERICSSON,39.916771,-8.623545,7,3,normalized time-series kmeans
+MLR073,B1,Pombal,ERICSSON,39.909739,-8.62523,14,9,normalized time-series kmeans
+MLR074,B1,Pombal,ERICSSON,39.890833,-8.661953,0,6,normalized time-series kmeans
+MCO029,B1,Pombal,ERICSSON,40.062331,-8.623472,11,7,normalized time-series kmeans
+MLR005,B1,Pombal,ERICSSON,39.90285,-8.690267,14,9,normalized time-series kmeans
+MLR006,B1,Pombal,ERICSSON,39.938193,-8.625289,14,9,normalized time-series kmeans
+MLR007,B1,Pombal,ERICSSON,39.873816,-8.685241,14,9,normalized time-series kmeans
+MLR082,B1,Pombal,ERICSSON,39.846596,-8.703133,2,8,normalized time-series kmeans
+MPT107,B1,Afurada,ERICSSON,41.123624,-8.63042,10,0,normalized time-series kmeans
+MPT096,B1,Afurada,ERICSSON,41.12509,-8.658871,11,7,normalized time-series kmeans
+MPT104,B1,Afurada,ERICSSON,41.138221,-8.634663,8,2,normalized time-series kmeans
+MPT102,B1,Afurada,ERICSSON,41.130294,-8.646323,8,2,normalized time-series kmeans
+MPT106,B1,Afurada,ERICSSON,41.134812,-8.625079,10,0,normalized time-series kmeans
+MPT101,B1,Afurada,ERICSSON,41.130055,-8.665815,0,6,normalized time-series kmeans
+MPT103,B1,Afurada,ERICSSON,41.127661,-8.622618,6,10,normalized time-series kmeans
+MPT109,B1,Afurada,ERICSSON,41.129624,-8.633507,10,0,normalized time-series kmeans
+MPT105,B1,Afurada,ERICSSON,41.14115,-8.624089,8,2,normalized time-series kmeans
+MPT108,B1,Afurada,ERICSSON,41.118627,-8.637094,8,2,normalized time-series kmeans
+MPT397,B1,Amieira,ERICSSON,41.184323,-8.63195,6,10,normalized time-series kmeans
+MPT392,B1,Amieira,ERICSSON,41.177008,-8.628808,6,10,normalized time-series kmeans
+MPT399,B1,Amieira,ERICSSON,41.179381,-8.624538,8,2,normalized time-series kmeans
+MPT407,B1,Amieira,ERICSSON,41.189235,-8.627284,8,2,normalized time-series kmeans
+MPT393,B1,Amieira,ERICSSON,41.178881,-8.637155,8,2,normalized time-series kmeans
+MPT394,B1,Amieira,ERICSSON,41.188241,-8.640454,10,0,normalized time-series kmeans
+MPT406,B1,Amieira,ERICSSON,41.176147,-8.613481,13,4,normalized time-series kmeans
+MPT395,B1,Amieira,ERICSSON,41.184492,-8.617331,6,10,normalized time-series kmeans
+MPT396,B1,Amieira,ERICSSON,41.193346,-8.611747,6,10,normalized time-series kmeans
+MPT199,B1,Avintes,ERICSSON,41.117172,-8.572579,8,2,normalized time-series kmeans
+MPT198,B1,Avintes,ERICSSON,41.10514,-8.591694,9,12,normalized time-series kmeans
+MPT202,B1,Avintes,ERICSSON,41.105322,-8.550195,12,5,normalized time-series kmeans
+MPT196,B1,Avintes,ERICSSON,41.108744,-8.566286,5,1,normalized time-series kmeans
+MPT200,B1,Avintes,ERICSSON,41.09734,-8.545308,8,2,normalized time-series kmeans
+MPT206,B1,Avintes,ERICSSON,41.10077,-8.590202,8,2,normalized time-series kmeans
+MPT204,B1,Avintes,ERICSSON,41.089776,-8.555159,14,9,normalized time-series kmeans
+MPT203,B1,Avintes,ERICSSON,41.11394,-8.587857,10,0,normalized time-series kmeans
+MPT197,B1,Avintes,ERICSSON,41.122587,-8.580215,5,1,normalized time-series kmeans
+MPT207,B1,Avintes,ERICSSON,41.112686,-8.597608,10,0,normalized time-series kmeans
+MPT201,B1,Avintes,ERICSSON,41.103424,-8.579444,5,1,normalized time-series kmeans
+MPT205,B1,Avintes,ERICSSON,41.097931,-8.597639,8,2,normalized time-series kmeans
+MPT303,B1,Custoia,ERICSSON,41.212153,-8.633345,7,3,normalized time-series kmeans
+MPT309,B1,Custoia,ERICSSON,41.202367,-8.610548,12,5,normalized time-series kmeans
+MPT310,B1,Custoia,ERICSSON,41.211495,-8.62785,10,0,normalized time-series kmeans
+MPT307,B1,Custoia,ERICSSON,41.192008,-8.637941,12,5,normalized time-series kmeans
+MPT318,B1,Custoia,ERICSSON,41.199603,-8.635693,6,10,normalized time-series kmeans
+MPT304,B1,Custoia,ERICSSON,41.205634,-8.645822,13,4,normalized time-series kmeans
+MPT301,B1,Custoia,ERICSSON,41.212956,-8.617285,13,4,normalized time-series kmeans
+MPT308,B1,Custoia,ERICSSON,41.211219,-8.596671,10,0,normalized time-series kmeans
+MAV197,B1,Espinho,ERICSSON,40.99541,-8.641,7,3,normalized time-series kmeans
+MAV078,B1,Espinho,ERICSSON,40.966584,-8.615586,7,3,normalized time-series kmeans
+MAV091,B1,Espinho,ERICSSON,40.962777,-8.59814,14,9,normalized time-series kmeans
+MAV083,B1,Espinho,ERICSSON,41.008749,-8.628827,13,4,normalized time-series kmeans
+MAV081,B1,Espinho,ERICSSON,41.007703,-8.637097,13,4,normalized time-series kmeans
+MAV086,B1,Espinho,ERICSSON,40.987295,-8.613267,7,3,normalized time-series kmeans
+MAV206,B1,Espinho,ERICSSON,40.9688,-8.595003,9,12,normalized time-series kmeans
+MAV099,B1,Espinho,ERICSSON,40.976345,-8.631195,2,8,normalized time-series kmeans
+MAV198,B1,Espinho,ERICSSON,40.998035,-8.618812,14,9,normalized time-series kmeans
+MAV077,B1,Espinho,ERICSSON,40.991932,-8.62363,7,3,normalized time-series kmeans
+MAV101,B1,Espinho,ERICSSON,40.94093,-8.629979,14,9,normalized time-series kmeans
+MAV089,B1,Espinho,ERICSSON,41.008282,-8.644885,14,9,normalized time-series kmeans
+MAV079,B1,Espinho,ERICSSON,40.950432,-8.621145,13,4,normalized time-series kmeans
+MPT297,B1,Lourosa,ERICSSON,41.026432,-8.576687,14,9,normalized time-series kmeans
+MAV040,B1,Lourosa,ERICSSON,40.989527,-8.589311,7,3,normalized time-series kmeans
+MAV048,B1,Lourosa,ERICSSON,41.008983,-8.562124,14,9,normalized time-series kmeans
+MAV036,B1,Lourosa,ERICSSON,40.99923,-8.572355,5,1,normalized time-series kmeans
+MAV035,B1,Lourosa,ERICSSON,41.027972,-8.55272,8,2,normalized time-series kmeans
+MAV209,B1,Lourosa,ERICSSON,40.99839,-8.557731,9,12,normalized time-series kmeans
+MAV046,B1,Lourosa,ERICSSON,40.995082,-8.523113,3,11,normalized time-series kmeans
+MAV047,B1,Lourosa,ERICSSON,40.988907,-8.55818,5,1,normalized time-series kmeans
+MAV038,B1,Lourosa,ERICSSON,41.000715,-8.541597,2,8,normalized time-series kmeans
+MAV224,B1,Lourosa,ERICSSON,40.976729,-8.536464,7,3,normalized time-series kmeans
+MAV042,B1,Lourosa,ERICSSON,41.011835,-8.514084,13,4,normalized time-series kmeans
+MPT231,B1,Lousada,ERICSSON,41.350472,-8.277092,0,6,normalized time-series kmeans
+MPT229,B1,Lousada,ERICSSON,41.274595,-8.317295,0,6,normalized time-series kmeans
+MPT230,B1,Lousada,ERICSSON,41.308122,-8.317578,14,9,normalized time-series kmeans
+MPT228,B1,Lousada,ERICSSON,41.33224,-8.265582,14,9,normalized time-series kmeans
+MBR128,B1,Lousada,ERICSSON,41.363975,-8.294661,14,9,normalized time-series kmeans
+MPT224,B1,Lousada,ERICSSON,41.271293,-8.27953,5,1,normalized time-series kmeans
+MPT226,B1,Lousada,ERICSSON,41.32354,-8.326366,7,3,normalized time-series kmeans
+MBR133,B1,Lousada,ERICSSON,41.381059,-8.266863,14,9,normalized time-series kmeans
+MPT223,B1,Lousada,ERICSSON,41.310196,-8.238855,0,6,normalized time-series kmeans
+MPT227,B1,Lousada,ERICSSON,41.341398,-8.221436,0,6,normalized time-series kmeans
+MPT157,B1,Mindelo,ERICSSON,41.275771,-8.677645,12,5,normalized time-series kmeans
+MPT155,B1,Mindelo,ERICSSON,41.2261,-8.713826,12,5,normalized time-series kmeans
+MPT158,B1,Mindelo,ERICSSON,41.317436,-8.713438,3,11,normalized time-series kmeans
+MPT163,B1,Mindelo,ERICSSON,41.299111,-8.730396,13,4,normalized time-series kmeans
+MPT161,B1,Mindelo,ERICSSON,41.336443,-8.717538,12,5,normalized time-series kmeans
+MPT152,B1,Mindelo,ERICSSON,41.246036,-8.721974,11,7,normalized time-series kmeans
+MPT153,B1,Mindelo,ERICSSON,41.237561,-8.697511,7,3,normalized time-series kmeans
+MPT504,B1,Mindelo,ERICSSON,41.263925,-8.701975,13,4,normalized time-series kmeans
+MPT168,B1,Mindelo,ERICSSON,41.306719,-8.696726,14,9,normalized time-series kmeans
+MPT280,B1,Recarei,ERICSSON,41.074281,-8.504138,11,7,normalized time-series kmeans
+MPT281,B1,Recarei,ERICSSON,41.183864,-8.476115,8,2,normalized time-series kmeans
+MPT273,B1,Recarei,ERICSSON,41.189844,-8.398475,2,8,normalized time-series kmeans
+MPT284,B1,Recarei,ERICSSON,41.092409,-8.490475,2,8,normalized time-series kmeans
+MPT276,B1,Recarei,ERICSSON,41.151496,-8.428155,13,4,normalized time-series kmeans
+MPT293,B1,Recarei,ERICSSON,41.127038,-8.446296,14,9,normalized time-series kmeans
+MPT283,B1,Recarei,ERICSSON,41.12095,-8.369468,11,7,normalized time-series kmeans
+MPT274,B1,Recarei,ERICSSON,41.200288,-8.39077,7,3,normalized time-series kmeans
+MPT275,B1,Recarei,ERICSSON,41.172494,-8.379667,13,4,normalized time-series kmeans
+MPT282,B1,Recarei,ERICSSON,41.180323,-8.447052,7,3,normalized time-series kmeans
+MPT451,B1,Recarei,ERICSSON,41.170673,-8.457302,5,1,normalized time-series kmeans
+MPT286,B1,Recarei,ERICSSON,41.172028,-8.428906,5,1,normalized time-series kmeans
+MPT259,B1,Valongo,ERICSSON,41.205705,-8.529745,7,3,normalized time-series kmeans
+MPT264,B1,Valongo,ERICSSON,41.185098,-8.560118,8,2,normalized time-series kmeans
+MPT257,B1,Valongo,ERICSSON,41.208869,-8.508789,14,9,normalized time-series kmeans
+MPT452,B1,Valongo,ERICSSON,41.205029,-8.54517,5,1,normalized time-series kmeans
+MPT254,B1,Valongo,ERICSSON,41.199764,-8.57494,5,1,normalized time-series kmeans
+MPT272,B1,Valongo,ERICSSON,41.185907,-8.536659,14,9,normalized time-series kmeans
+MPT270,B1,Valongo,ERICSSON,41.189903,-8.522679,2,8,normalized time-series kmeans
+MPT256,B1,Valongo,ERICSSON,41.204406,-8.554228,5,1,normalized time-series kmeans
+MPT261,B1,Valongo,ERICSSON,41.196111,-8.520917,9,12,normalized time-series kmeans
+MPT263,B1,Valongo,ERICSSON,41.193776,-8.509736,5,1,normalized time-series kmeans
+MPT255,B1,Valongo,ERICSSON,41.191319,-8.497627,7,3,normalized time-series kmeans
+MPT232,B1,Amarante,ERICSSON,41.238987,-8.093917,11,7,normalized time-series kmeans
+MPT240,B1,Amarante,ERICSSON,41.289645,-8.130178,0,6,normalized time-series kmeans
+MPT245,B1,Amarante,ERICSSON,41.33957,-8.157505,0,6,normalized time-series kmeans
+MPT250,B1,Amarante,ERICSSON,41.255029,-8.009665,11,7,normalized time-series kmeans
+MPT238,B1,Amarante,ERICSSON,41.267179,-8.100702,0,6,normalized time-series kmeans
+MPT235,B1,Amarante,ERICSSON,41.271901,-8.080424,8,2,normalized time-series kmeans
+MPT244,B1,Amarante,ERICSSON,41.261562,-8.041988,11,7,normalized time-series kmeans
+MPT241,B1,Amarante,ERICSSON,41.263374,-8.07516,14,9,normalized time-series kmeans
+MPT237,B1,Amarante,ERICSSON,41.297404,-8.189902,14,9,normalized time-series kmeans
+MPT234,B1,Amarante,ERICSSON,41.317297,-8.145617,0,6,normalized time-series kmeans
+MPT182,B1,Arcozelo,ERICSSON,41.082661,-8.60491,5,1,normalized time-series kmeans
+MPT175,B1,Arcozelo,ERICSSON,41.028656,-8.617533,13,4,normalized time-series kmeans
+MPT187,B1,Arcozelo,ERICSSON,41.049259,-8.653446,11,7,normalized time-series kmeans
+MPT180,B1,Arcozelo,ERICSSON,41.05202,-8.627739,13,4,normalized time-series kmeans
+MPT183,B1,Arcozelo,ERICSSON,41.04509,-8.61325,14,9,normalized time-series kmeans
+MPT494,B1,Arcozelo,ERICSSON,41.062592,-8.59851,7,3,normalized time-series kmeans
+MPT186,B1,Arcozelo,ERICSSON,41.068809,-8.638428,13,4,normalized time-series kmeans
+MPT188,B1,Arcozelo,ERICSSON,41.040823,-8.647825,2,8,normalized time-series kmeans
+MPT177,B1,Arcozelo,ERICSSON,41.064069,-8.618459,12,5,normalized time-series kmeans
+MPT179,B1,Arcozelo,ERICSSON,41.074504,-8.619565,13,4,normalized time-series kmeans
+MBR082,B1,Barcelos,ERICSSON,41.557779,-8.57837,14,9,normalized time-series kmeans
+MBR168,B1,Barcelos,ERICSSON,41.530358,-8.637764,5,1,normalized time-series kmeans
+MBR099,B1,Barcelos,ERICSSON,41.522948,-8.619742,10,0,normalized time-series kmeans
+MBR091,B1,Barcelos,ERICSSON,41.541669,-8.618194,6,10,normalized time-series kmeans
+MBR084,B1,Barcelos,ERICSSON,41.582365,-8.594765,7,3,normalized time-series kmeans
+MBR083,B1,Barcelos,ERICSSON,41.532804,-8.623161,6,10,normalized time-series kmeans
+MBR092,B1,Barcelos,ERICSSON,41.559104,-8.604097,5,1,normalized time-series kmeans
+MBR085,B1,Barcelos,ERICSSON,41.577194,-8.62096,12,5,normalized time-series kmeans
+MBR081,B1,Barcelos,ERICSSON,41.535917,-8.612356,10,0,normalized time-series kmeans
+MBR138,B1,Barcelos,ERICSSON,41.5613,-8.65797,14,9,normalized time-series kmeans
+MPT402,B1,Boavista,ERICSSON,41.157045,-8.62848,12,5,normalized time-series kmeans
+MPT403,B1,Boavista,ERICSSON,41.153141,-8.632888,10,0,normalized time-series kmeans
+MPT405,B1,Boavista,ERICSSON,41.159037,-8.620566,7,3,normalized time-series kmeans
+MPT389,B1,Boavista,ERICSSON,41.148968,-8.634925,5,1,normalized time-series kmeans
+MPT404,B1,Boavista,ERICSSON,41.1493,-8.625985,10,0,normalized time-series kmeans
+MPT398,B1,Boavista,ERICSSON,41.15301,-8.636845,10,0,normalized time-series kmeans
+MPT401,B1,Boavista,ERICSSON,41.156305,-8.619784,10,0,normalized time-series kmeans
+MPT391,B1,Boavista,ERICSSON,41.15366,-8.62074,10,0,normalized time-series kmeans
+MPT400,B1,Boavista,ERICSSON,41.159924,-8.624363,10,0,normalized time-series kmeans
+MPT390,B1,Boavista,ERICSSON,41.158901,-8.62835,7,3,normalized time-series kmeans
+MBR101,B1,Fradelos,ERICSSON,41.48835,-8.465511,14,9,normalized time-series kmeans
+MBR146,B1,Fradelos,ERICSSON,41.519445,-8.457168,7,3,normalized time-series kmeans
+MBR108,B1,Fradelos,ERICSSON,41.582038,-8.462496,7,3,normalized time-series kmeans
+MBR102,B1,Fradelos,ERICSSON,41.511269,-8.451171,7,3,normalized time-series kmeans
+MBR103,B1,Fradelos,ERICSSON,41.571617,-8.472286,14,9,normalized time-series kmeans
+MBR145,B1,Fradelos,ERICSSON,41.565676,-8.452738,2,8,normalized time-series kmeans
+MBR100,B1,Fradelos,ERICSSON,41.478282,-8.435771,0,6,normalized time-series kmeans
+MBR107,B1,Fradelos,ERICSSON,41.53227,-8.483322,5,1,normalized time-series kmeans
+MBR106,B1,Fradelos,ERICSSON,41.498237,-8.503014,14,9,normalized time-series kmeans
+MBR105,B1,Fradelos,ERICSSON,41.564715,-8.543161,0,6,normalized time-series kmeans
+MPT047,B1,Gondomar,ERICSSON,41.132424,-8.549307,13,4,normalized time-series kmeans
+MPT042,B1,Gondomar,ERICSSON,41.148608,-8.516152,13,4,normalized time-series kmeans
+MPT419,B1,Gondomar,ERICSSON,41.1126,-8.512879,11,7,normalized time-series kmeans
+MPT049,B1,Gondomar,ERICSSON,41.144423,-8.538059,12,5,normalized time-series kmeans
+MPT045,B1,Gondomar,ERICSSON,41.136954,-8.566626,7,3,normalized time-series kmeans
+MPT038,B1,Gondomar,ERICSSON,41.153174,-8.530275,14,9,normalized time-series kmeans
+MPT044,B1,Gondomar,ERICSSON,41.141204,-8.556553,2,8,normalized time-series kmeans
+MPT040,B1,Gondomar,ERICSSON,41.131321,-8.562301,12,5,normalized time-series kmeans
+MPT043,B1,Gondomar,ERICSSON,41.137899,-8.488563,11,7,normalized time-series kmeans
+MPT041,B1,Gondomar,ERICSSON,41.104819,-8.509543,2,8,normalized time-series kmeans
+MPT046,B1,Gondomar,ERICSSON,41.119125,-8.511066,14,9,normalized time-series kmeans
+MPT039,B1,Gondomar,ERICSSON,41.140316,-8.528117,10,0,normalized time-series kmeans
+MPT048,B1,Gondomar,ERICSSON,41.125985,-8.538379,13,4,normalized time-series kmeans
+MPT194,B1,Madalena,ERICSSON,41.0997,-8.628101,10,0,normalized time-series kmeans
+MPT176,B1,Madalena,ERICSSON,41.096664,-8.60897,13,4,normalized time-series kmeans
+MPT193,B1,Madalena,ERICSSON,41.108207,-8.637363,8,2,normalized time-series kmeans
+MPT190,B1,Madalena,ERICSSON,41.114499,-8.606006,10,0,normalized time-series kmeans
+MPT178,B1,Madalena,ERICSSON,41.092226,-8.649051,8,2,normalized time-series kmeans
+MPT185,B1,Madalena,ERICSSON,41.113067,-8.625167,8,2,normalized time-series kmeans
+MPT184,B1,Madalena,ERICSSON,41.09,-8.620119,10,0,normalized time-series kmeans
+MPT192,B1,Madalena,ERICSSON,41.117792,-8.610286,10,0,normalized time-series kmeans
+MPT191,B1,Madalena,ERICSSON,41.108044,-8.607307,8,2,normalized time-series kmeans
+MPT181,B1,Madalena,ERICSSON,41.110554,-8.650883,14,9,normalized time-series kmeans
+MPT189,B1,Madalena,ERICSSON,41.118906,-8.622763,13,4,normalized time-series kmeans
+MAV124,B1,Mealhada,ERICSSON,40.381181,-8.356556,12,5,normalized time-series kmeans
+MAV138,B1,Mealhada,ERICSSON,40.32891,-8.417629,3,11,normalized time-series kmeans
+MAV144,B1,Mealhada,ERICSSON,40.39043,-8.448299,14,9,normalized time-series kmeans
+MAV143,B1,Mealhada,ERICSSON,40.319304,-8.452115,14,9,normalized time-series kmeans
+MAV188,B1,Mealhada,ERICSSON,40.419452,-8.450146,14,9,normalized time-series kmeans
+MAV130,B1,Mealhada,ERICSSON,40.437859,-8.442098,14,9,normalized time-series kmeans
+MAV141,B1,Mealhada,ERICSSON,40.303144,-8.480016,14,9,normalized time-series kmeans
+MAV137,B1,Mealhada,ERICSSON,40.384731,-8.378578,7,3,normalized time-series kmeans
+MPT114,B1,Penafiel,ERICSSON,41.206204,-8.335003,7,3,normalized time-series kmeans
+MPT117,B1,Penafiel,ERICSSON,41.16702,-8.30747,2,8,normalized time-series kmeans
+MPT123,B1,Penafiel,ERICSSON,41.197457,-8.293948,8,2,normalized time-series kmeans
+MPT119,B1,Penafiel,ERICSSON,41.187354,-8.267132,14,9,normalized time-series kmeans
+MPT118,B1,Penafiel,ERICSSON,41.196273,-8.354769,14,9,normalized time-series kmeans
+MPT122,B1,Penafiel,ERICSSON,41.20245,-8.329173,7,3,normalized time-series kmeans
+MPT121,B1,Penafiel,ERICSSON,41.205193,-8.28641,5,1,normalized time-series kmeans
+MPT116,B1,Penafiel,ERICSSON,41.173966,-8.353974,2,8,normalized time-series kmeans
+MPT112,B1,Penafiel,ERICSSON,41.208754,-8.276781,7,3,normalized time-series kmeans
+MPT113,B1,Penafiel,ERICSSON,41.192247,-8.315802,5,1,normalized time-series kmeans
+MCO012,B1,Alqueidao,ERICSSON,40.023359,-8.820154,12,5,normalized time-series kmeans
+MCO011,B1,Alqueidao,ERICSSON,40.090115,-8.841258,14,9,normalized time-series kmeans
+MCO128,B1,Alqueidao,ERICSSON,40.040835,-8.761848,2,8,normalized time-series kmeans
+MLR002,B1,Alqueidao,ERICSSON,39.987406,-8.795453,8,2,normalized time-series kmeans
+MCO014,B1,Alqueidao,ERICSSON,40.056145,-8.803759,12,5,normalized time-series kmeans
+MCO017,B1,Alqueidao,ERICSSON,40.11942,-8.85262,7,3,normalized time-series kmeans
+MLR001,B1,Alqueidao,ERICSSON,40.006917,-8.76048,2,8,normalized time-series kmeans
+MCO015,B1,Alqueidao,ERICSSON,40.103851,-8.743797,12,5,normalized time-series kmeans
+MPT093,B1,Carvalhos,ERICSSON,41.075015,-8.546747,5,1,normalized time-series kmeans
+MPT094,B1,Carvalhos,ERICSSON,41.068553,-8.523546,0,6,normalized time-series kmeans
+MPT110,B1,Carvalhos,ERICSSON,41.050546,-8.545785,12,5,normalized time-series kmeans
+MPT111,B1,Carvalhos,ERICSSON,41.063951,-8.56952,5,1,normalized time-series kmeans
+DPT066,B1,Carvalhos,ERICSSON,41.087582,-8.529851,4,13,normalized time-series kmeans
+MPT095,B1,Carvalhos,ERICSSON,41.05346,-8.575455,5,1,normalized time-series kmeans
+MPT099,B1,Carvalhos,ERICSSON,41.084232,-8.582936,5,1,normalized time-series kmeans
+MPT098,B1,Carvalhos,ERICSSON,41.04124,-8.521031,12,5,normalized time-series kmeans
+MPT458,B1,Carvalhos,ERICSSON,41.045413,-8.566805,5,1,normalized time-series kmeans
+MPT100,B1,Carvalhos,ERICSSON,41.089368,-8.533849,7,3,normalized time-series kmeans
+MPT092,B1,Carvalhos,ERICSSON,41.076375,-8.582331,6,10,normalized time-series kmeans
+MPT097,B1,Carvalhos,ERICSSON,41.056553,-8.516611,14,9,normalized time-series kmeans
+MPT065,B1,Ermesinde,ERICSSON,41.250447,-8.5989,14,9,normalized time-series kmeans
+MPT053,B1,Ermesinde,ERICSSON,41.240444,-8.54915,13,4,normalized time-series kmeans
+MPT070,B1,Ermesinde,ERICSSON,41.209757,-8.575734,7,3,normalized time-series kmeans
+MPT054,B1,Ermesinde,ERICSSON,41.210686,-8.554484,5,1,normalized time-series kmeans
+MPT068,B1,Ermesinde,ERICSSON,41.21044,-8.56565,8,2,normalized time-series kmeans
+MPT061,B1,Ermesinde,ERICSSON,41.253837,-8.567464,7,3,normalized time-series kmeans
+MPT069,B1,Ermesinde,ERICSSON,41.228225,-8.581294,3,11,normalized time-series kmeans
+MPT059,B1,Ermesinde,ERICSSON,41.230478,-8.54373,13,4,normalized time-series kmeans
+MPT055,B1,Ermesinde,ERICSSON,41.216013,-8.57456,12,5,normalized time-series kmeans
+MPT052,B1,Ermesinde,ERICSSON,41.228663,-8.568083,12,5,normalized time-series kmeans
+MPT051,B1,Ermesinde,ERICSSON,41.217927,-8.549699,5,1,normalized time-series kmeans
+MAV065,B1,Estarreja,ERICSSON,40.771427,-8.543473,8,2,normalized time-series kmeans
+MAV071,B1,Estarreja,ERICSSON,40.750727,-8.607533,14,9,normalized time-series kmeans
+MAV067,B1,Estarreja,ERICSSON,40.809819,-8.568795,0,6,normalized time-series kmeans
+MAV062,B1,Estarreja,ERICSSON,40.749879,-8.646167,11,7,normalized time-series kmeans
+MAV054,B1,Estarreja,ERICSSON,40.752075,-8.571242,5,1,normalized time-series kmeans
+MAV069,B1,Estarreja,ERICSSON,40.803465,-8.547843,7,3,normalized time-series kmeans
+MAV072,B1,Estarreja,ERICSSON,40.782395,-8.575432,5,1,normalized time-series kmeans
+MAV060,B1,Estarreja,ERICSSON,40.763699,-8.703994,14,9,normalized time-series kmeans
+MAV070,B1,Estarreja,ERICSSON,40.718755,-8.707062,2,8,normalized time-series kmeans
+MBR164,B1,Famalicao,ERICSSON,41.410089,-8.518118,10,0,normalized time-series kmeans
+MBR042,B1,Famalicao,ERICSSON,41.450326,-8.449195,3,11,normalized time-series kmeans
+MBR043,B1,Famalicao,ERICSSON,41.402513,-8.448976,13,4,normalized time-series kmeans
+MBR036,B1,Famalicao,ERICSSON,41.440046,-8.49794,12,5,normalized time-series kmeans
+MBR048,B1,Famalicao,ERICSSON,41.434698,-8.477061,2,8,normalized time-series kmeans
+MBR038,B1,Famalicao,ERICSSON,41.396865,-8.538992,12,5,normalized time-series kmeans
+MBR037,B1,Famalicao,ERICSSON,41.379746,-8.533277,12,5,normalized time-series kmeans
+MBR039,B1,Famalicao,ERICSSON,41.378731,-8.495506,5,1,normalized time-series kmeans
+MBR046,B1,Famalicao,ERICSSON,41.404615,-8.526387,10,0,normalized time-series kmeans
+MBR171,B1,Guimaraes,ERICSSON,41.472251,-8.26346,14,9,normalized time-series kmeans
+MBR019,B1,Guimaraes,ERICSSON,41.443687,-8.297667,12,5,normalized time-series kmeans
+MBR012,B1,Guimaraes,ERICSSON,41.446991,-8.268577,7,3,normalized time-series kmeans
+MBR023,B1,Guimaraes,ERICSSON,41.445173,-8.262466,0,6,normalized time-series kmeans
+MBR021,B1,Guimaraes,ERICSSON,41.454736,-8.299545,10,0,normalized time-series kmeans
+MBR014,B1,Guimaraes,ERICSSON,41.458932,-8.269616,12,5,normalized time-series kmeans
+MBR017,B1,Guimaraes,ERICSSON,41.42049,-8.306138,13,4,normalized time-series kmeans
+MBR018,B1,Guimaraes,ERICSSON,41.448754,-8.294869,2,8,normalized time-series kmeans
+DBR002,B1,Guimaraes,ERICSSON,41.445201,-8.301587,4,13,normalized time-series kmeans
+MBR016,B1,Guimaraes,ERICSSON,41.470926,-8.281144,7,3,normalized time-series kmeans
+MBR020,B1,Guimaraes,ERICSSON,41.448636,-8.284587,13,4,normalized time-series kmeans
+MBR013,B1,Guimaraes,ERICSSON,41.436165,-8.296192,12,5,normalized time-series kmeans
+MBR015,B1,Guimaraes,ERICSSON,41.452428,-8.320859,12,5,normalized time-series kmeans
+MPT136,B1,Rebordosa,ERICSSON,41.245547,-8.525676,11,7,normalized time-series kmeans
+MPT145,B1,Rebordosa,ERICSSON,41.213795,-8.462015,5,1,normalized time-series kmeans
+MPT133,B1,Rebordosa,ERICSSON,41.279716,-8.496687,3,11,normalized time-series kmeans
+MPT138,B1,Rebordosa,ERICSSON,41.272078,-8.462766,12,5,normalized time-series kmeans
+MPT143,B1,Rebordosa,ERICSSON,41.27362,-8.53352,14,9,normalized time-series kmeans
+MPT135,B1,Rebordosa,ERICSSON,41.230591,-8.399498,8,2,normalized time-series kmeans
+MPT141,B1,Rebordosa,ERICSSON,41.232567,-8.393144,12,5,normalized time-series kmeans
+MPT142,B1,Rebordosa,ERICSSON,41.263401,-8.487883,13,4,normalized time-series kmeans
+MPT453,B1,Rebordosa,ERICSSON,41.236994,-8.514746,9,12,normalized time-series kmeans
+MPT147,B1,Rebordosa,ERICSSON,41.217488,-8.4141,14,9,normalized time-series kmeans
+MPT502,B1,Rio Tinto,ERICSSON,41.164639,-8.51054,12,5,normalized time-series kmeans
+MPT032,B1,Rio Tinto,ERICSSON,41.153545,-8.562856,13,4,normalized time-series kmeans
+MPT028,B1,Rio Tinto,ERICSSON,41.163744,-8.566759,13,4,normalized time-series kmeans
+MPT030,B1,Rio Tinto,ERICSSON,41.175303,-8.546309,5,1,normalized time-series kmeans
+MPT034,B1,Rio Tinto,ERICSSON,41.170332,-8.552493,12,5,normalized time-series kmeans
+MPT029,B1,Rio Tinto,ERICSSON,41.167788,-8.535559,12,5,normalized time-series kmeans
+MPT033,B1,Rio Tinto,ERICSSON,41.166524,-8.518226,12,5,normalized time-series kmeans
+MPT035,B1,Rio Tinto,ERICSSON,41.16237,-8.552618,8,2,normalized time-series kmeans
+MPT027,B1,Rio Tinto,ERICSSON,41.156654,-8.549213,6,10,normalized time-series kmeans
+MAV013,B1,Aveiro Sul,ERICSSON,40.631233,-8.580553,2,8,normalized time-series kmeans
+MAV011,B1,Aveiro Sul,ERICSSON,40.608494,-8.608509,7,3,normalized time-series kmeans
+MAV015,B1,Aveiro Sul,ERICSSON,40.589093,-8.637326,13,4,normalized time-series kmeans
+MAV012,B1,Aveiro Sul,ERICSSON,40.579192,-8.583702,14,9,normalized time-series kmeans
+MAV016,B1,Aveiro Sul,ERICSSON,40.61534,-8.580514,12,5,normalized time-series kmeans
+MAV018,B1,Aveiro Sul,ERICSSON,40.594144,-8.615149,14,9,normalized time-series kmeans
+MAV014,B1,Aveiro Sul,ERICSSON,40.611701,-8.636045,13,4,normalized time-series kmeans
+MAV017,B1,Aveiro Sul,ERICSSON,40.629284,-8.613389,14,9,normalized time-series kmeans
+MAV020,B1,Aveiro Sul,ERICSSON,40.59293,-8.561849,13,4,normalized time-series kmeans
+MBR061,B1,Braga Este,ERICSSON,41.550043,-8.405399,5,1,normalized time-series kmeans
+MBR077,B1,Braga Este,ERICSSON,41.543479,-8.41824,5,1,normalized time-series kmeans
+MBR071,B1,Braga Este,ERICSSON,41.529292,-8.421496,7,3,normalized time-series kmeans
+MBR060,B1,Braga Este,ERICSSON,41.536035,-8.41549,13,4,normalized time-series kmeans
+MBR062,B1,Braga Este,ERICSSON,41.533061,-8.406454,7,3,normalized time-series kmeans
+MBR076,B1,Braga Este,ERICSSON,41.560063,-8.404336,8,2,normalized time-series kmeans
+MBR161,B1,Braga Este,ERICSSON,41.542094,-8.410534,12,5,normalized time-series kmeans
+MCO090,B1,Cantanhede,ERICSSON,40.344296,-8.49596,7,3,normalized time-series kmeans
+MAV066,B1,Cantanhede,ERICSSON,40.418423,-8.496055,14,9,normalized time-series kmeans
+MCO086,B1,Cantanhede,ERICSSON,40.397422,-8.584235,0,6,normalized time-series kmeans
+MCO083,B1,Cantanhede,ERICSSON,40.356497,-8.587442,7,3,normalized time-series kmeans
+MCO109,B1,Cantanhede,ERICSSON,40.336834,-8.53649,0,6,normalized time-series kmeans
+MCO085,B1,Cantanhede,ERICSSON,40.356164,-8.533155,2,8,normalized time-series kmeans
+MCO087,B1,Cantanhede,ERICSSON,40.279226,-8.646656,2,8,normalized time-series kmeans
+MCO088,B1,Cantanhede,ERICSSON,40.272213,-8.60448,2,8,normalized time-series kmeans
+MAV190,B1,Cantanhede,ERICSSON,40.423386,-8.533151,14,9,normalized time-series kmeans
+MCO084,B1,Cantanhede,ERICSSON,40.329503,-8.576741,14,9,normalized time-series kmeans
+MCO091,B1,Cantanhede,ERICSSON,40.321696,-8.666091,0,6,normalized time-series kmeans
+MCO108,B1,Cantanhede,ERICSSON,40.42915,-8.596515,0,6,normalized time-series kmeans
+MPT007,B1,Matosinhos,ERICSSON,41.180874,-8.669159,13,4,normalized time-series kmeans
+MPT001,B1,Matosinhos,ERICSSON,41.174077,-8.686777,2,8,normalized time-series kmeans
+MPT011,B1,Matosinhos,ERICSSON,41.182824,-8.69358,7,3,normalized time-series kmeans
+MPT008,B1,Matosinhos,ERICSSON,41.181985,-8.686465,12,5,normalized time-series kmeans
+MPT009,B1,Matosinhos,ERICSSON,41.187825,-8.690611,12,5,normalized time-series kmeans
+MPT005,B1,Matosinhos,ERICSSON,41.191894,-8.696447,12,5,normalized time-series kmeans
+MPT476,B1,Matosinhos,ERICSSON,41.188796,-8.703675,14,9,normalized time-series kmeans
+MPT002,B1,Matosinhos,ERICSSON,41.180366,-8.690372,6,10,normalized time-series kmeans
+MPT010,B1,Matosinhos,ERICSSON,41.184758,-8.682362,13,4,normalized time-series kmeans
+MPT012,B1,Matosinhos,ERICSSON,41.177728,-8.677675,12,5,normalized time-series kmeans
+MPT006,B1,Matosinhos,ERICSSON,41.189203,-8.674483,12,5,normalized time-series kmeans
+MPT003,B1,Matosinhos,ERICSSON,41.194418,-8.700836,5,1,normalized time-series kmeans
+MBR113,B1,Vila Verde,ERICSSON,41.602629,-8.55295,11,7,normalized time-series kmeans
+MBR120,B1,Vila Verde,ERICSSON,41.667607,-8.438265,11,7,normalized time-series kmeans
+MBR114,B1,Vila Verde,ERICSSON,41.627117,-8.46792,14,9,normalized time-series kmeans
+MBR118,B1,Vila Verde,ERICSSON,41.607648,-8.501095,0,6,normalized time-series kmeans
+MBR117,B1,Vila Verde,ERICSSON,41.672124,-8.507973,0,6,normalized time-series kmeans
+MBR112,B1,Vila Verde,ERICSSON,41.652111,-8.430137,8,2,normalized time-series kmeans
+MBR115,B1,Vila Verde,ERICSSON,41.659596,-8.391625,2,8,normalized time-series kmeans
+MBR087,B1,Braga Oeste,ERICSSON,41.527981,-8.448117,7,3,normalized time-series kmeans
+MBR088,B1,Braga Oeste,ERICSSON,41.54234,-8.428165,5,1,normalized time-series kmeans
+MBR079,B1,Braga Oeste,ERICSSON,41.559828,-8.420084,10,0,normalized time-series kmeans
+MBR086,B1,Braga Oeste,ERICSSON,41.55552,-8.435963,6,10,normalized time-series kmeans
+MBR089,B1,Braga Oeste,ERICSSON,41.537766,-8.433948,13,4,normalized time-series kmeans
+MBR090,B1,Braga Oeste,ERICSSON,41.551144,-8.425342,3,11,normalized time-series kmeans
+MBR080,B1,Braga Oeste,ERICSSON,41.549274,-8.433296,8,2,normalized time-series kmeans
+MBR096,B1,Braga Oeste,ERICSSON,41.555012,-8.42146,3,11,normalized time-series kmeans
+MBR095,B1,Braga Oeste,ERICSSON,41.547918,-8.42326,10,0,normalized time-series kmeans
+MPT144,B1,Santo Tirso,ERICSSON,41.337901,-8.493658,3,11,normalized time-series kmeans
+MPT151,B1,Santo Tirso,ERICSSON,41.322898,-8.469751,12,5,normalized time-series kmeans
+MPT140,B1,Santo Tirso,ERICSSON,41.352322,-8.366391,2,8,normalized time-series kmeans
+MPT137,B1,Santo Tirso,ERICSSON,41.33994,-8.474244,7,3,normalized time-series kmeans
+MPT149,B1,Santo Tirso,ERICSSON,41.310478,-8.411042,13,4,normalized time-series kmeans
+MPT146,B1,Santo Tirso,ERICSSON,41.316892,-8.51167,13,4,normalized time-series kmeans
+MPT148,B1,Santo Tirso,ERICSSON,41.34709,-8.481753,3,11,normalized time-series kmeans
+MPT487,B1,Santo Tirso,ERICSSON,41.32435,-8.442958,14,9,normalized time-series kmeans
+MPT139,B1,Santo Tirso,ERICSSON,41.309574,-8.470056,12,5,normalized time-series kmeans
+MPT134,B1,Santo Tirso,ERICSSON,41.346871,-8.417221,12,5,normalized time-series kmeans
+MLR037,B1,Agua Formosa,ERICSSON,39.895986,-8.830571,14,9,normalized time-series kmeans
+MLR039,B1,Agua Formosa,ERICSSON,39.921868,-8.95156,11,7,normalized time-series kmeans
+MLR032,B1,Agua Formosa,ERICSSON,39.927928,-8.883552,3,11,normalized time-series kmeans
+MLR038,B1,Agua Formosa,ERICSSON,39.973065,-8.701169,13,4,normalized time-series kmeans
+MLR040,B1,Agua Formosa,ERICSSON,39.926457,-8.780927,11,7,normalized time-series kmeans
+MLR068,B1,Agua Formosa,ERICSSON,39.89978,-8.879466,7,3,normalized time-series kmeans
+MLR041,B1,Agua Formosa,ERICSSON,39.947254,-8.776927,3,11,normalized time-series kmeans
+MLR036,B1,Agua Formosa,ERICSSON,39.945136,-8.787513,12,5,normalized time-series kmeans
+MLR035,B1,Agua Formosa,ERICSSON,39.906456,-8.802222,14,9,normalized time-series kmeans
+MLR034,B1,Agua Formosa,ERICSSON,39.953266,-8.740602,11,7,normalized time-series kmeans
+MLR062,B1,Agua Formosa,ERICSSON,39.878244,-8.821419,7,3,normalized time-series kmeans
+MLR033,B1,Agua Formosa,ERICSSON,39.890082,-8.781269,11,7,normalized time-series kmeans
+MAV026,B1,Aveiro Norte,ERICSSON,40.653762,-8.616536,7,3,normalized time-series kmeans
+MAV023,B1,Aveiro Norte,ERICSSON,40.630027,-8.652631,13,4,normalized time-series kmeans
+MAV028,B1,Aveiro Norte,ERICSSON,40.636947,-8.65192,10,0,normalized time-series kmeans
+MAV022,B1,Aveiro Norte,ERICSSON,40.665921,-8.607712,5,1,normalized time-series kmeans
+MAV021,B1,Aveiro Norte,ERICSSON,40.642978,-8.651606,10,0,normalized time-series kmeans
+MAV027,B1,Aveiro Norte,ERICSSON,40.648276,-8.630228,5,1,normalized time-series kmeans
+MAV025,B1,Aveiro Norte,ERICSSON,40.645531,-8.642756,5,1,normalized time-series kmeans
+MAV030,B1,Aveiro Norte,ERICSSON,40.635913,-8.643789,13,4,normalized time-series kmeans
+MAV024,B1,Aveiro Norte,ERICSSON,40.673735,-8.598058,13,4,normalized time-series kmeans
+MPT347,B1,Campo Alegre,ERICSSON,41.154177,-8.64418,5,1,normalized time-series kmeans
+MPT358,B1,Campo Alegre,ERICSSON,41.163545,-8.638682,10,0,normalized time-series kmeans
+MPT340,B1,Campo Alegre,ERICSSON,41.149437,-8.649604,5,1,normalized time-series kmeans
+MPT357,B1,Campo Alegre,ERICSSON,41.159338,-8.6383,7,3,normalized time-series kmeans
+MPT346,B1,Campo Alegre,ERICSSON,41.153501,-8.64994,5,1,normalized time-series kmeans
+MPT360,B1,Campo Alegre,ERICSSON,41.16501,-8.648997,7,3,normalized time-series kmeans
+MPT350,B1,Campo Alegre,ERICSSON,41.171147,-8.638307,10,0,normalized time-series kmeans
+MPT355,B1,Campo Alegre,ERICSSON,41.170654,-8.647715,7,3,normalized time-series kmeans
+MPT356,B1,Campo Alegre,ERICSSON,41.148524,-8.657581,8,2,normalized time-series kmeans
+MPT359,B1,Campo Alegre,ERICSSON,41.161366,-8.656525,7,3,normalized time-series kmeans
+MPT345,B1,Campo Alegre,ERICSSON,41.158861,-8.650055,10,0,normalized time-series kmeans
+MCO053,B1,Coimbra Este,ERICSSON,40.205451,-8.403882,10,0,normalized time-series kmeans
+MCO051,B1,Coimbra Este,ERICSSON,40.211016,-8.410402,10,0,normalized time-series kmeans
+MCO057,B1,Coimbra Este,ERICSSON,40.223591,-8.435363,5,1,normalized time-series kmeans
+MCO059,B1,Coimbra Este,ERICSSON,40.213803,-8.414691,10,0,normalized time-series kmeans
+MCO052,B1,Coimbra Este,ERICSSON,40.196641,-8.402502,10,0,normalized time-series kmeans
+MCO055,B1,Coimbra Este,ERICSSON,40.210189,-8.390009,0,6,normalized time-series kmeans
+MCO056,B1,Coimbra Este,ERICSSON,40.217347,-8.420595,7,3,normalized time-series kmeans
+MPT302,B1,Porto Centro,ERICSSON,41.150397,-8.591109,5,1,normalized time-series kmeans
+MPT306,B1,Porto Centro,ERICSSON,41.161746,-8.603673,10,0,normalized time-series kmeans
+MPT312,B1,Porto Centro,ERICSSON,41.153385,-8.605714,10,0,normalized time-series kmeans
+MPT317,B1,Porto Centro,ERICSSON,41.154808,-8.613786,3,11,normalized time-series kmeans
+MPT311,B1,Porto Centro,ERICSSON,41.153971,-8.611371,7,3,normalized time-series kmeans
+MPT313,B1,Porto Centro,ERICSSON,41.153021,-8.599471,10,0,normalized time-series kmeans
+MPT315,B1,Porto Centro,ERICSSON,41.151687,-8.615159,8,2,normalized time-series kmeans
+MPT300,B1,Porto Centro,ERICSSON,41.157038,-8.601937,13,4,normalized time-series kmeans
+MPT305,B1,Porto Centro,ERICSSON,41.160454,-8.610403,5,1,normalized time-series kmeans
+MPT314,B1,Porto Centro,ERICSSON,41.157298,-8.609564,5,1,normalized time-series kmeans
+MLR025,B1,Caranguejeira,ERICSSON,39.787558,-8.749144,2,8,normalized time-series kmeans
+MLR024,B1,Caranguejeira,ERICSSON,39.832481,-8.721365,14,9,normalized time-series kmeans
+MLR026,B1,Caranguejeira,ERICSSON,39.76172,-8.746401,0,6,normalized time-series kmeans
+MLR065,B1,Caranguejeira,ERICSSON,39.801231,-8.753145,7,3,normalized time-series kmeans
+MLR027,B1,Caranguejeira,ERICSSON,39.698001,-8.781567,14,9,normalized time-series kmeans
+MLR030,B1,Caranguejeira,ERICSSON,39.796316,-8.72929,13,4,normalized time-series kmeans
+MLR022,B1,Caranguejeira,ERICSSON,39.740877,-8.717708,2,8,normalized time-series kmeans
+MLR028,B1,Caranguejeira,ERICSSON,39.838714,-8.747182,11,7,normalized time-series kmeans
+MLR014,B1,Leiria Centro,ERICSSON,39.734471,-8.784964,14,9,normalized time-series kmeans
+MLR018,B1,Leiria Centro,ERICSSON,39.741488,-8.804538,3,11,normalized time-series kmeans
+MLR020,B1,Leiria Centro,ERICSSON,39.748733,-8.804693,8,2,normalized time-series kmeans
+MLR015,B1,Leiria Centro,ERICSSON,39.739588,-8.810262,10,0,normalized time-series kmeans
+MLR013,B1,Leiria Centro,ERICSSON,39.748521,-8.791959,14,9,normalized time-series kmeans
+MLR012,B1,Leiria Centro,ERICSSON,39.764435,-8.803726,8,2,normalized time-series kmeans
+MLR017,B1,Leiria Centro,ERICSSON,39.759588,-8.788073,8,2,normalized time-series kmeans
+MLR021,B1,Leiria Centro,ERICSSON,39.736763,-8.772738,8,2,normalized time-series kmeans
+MLR019,B1,Leiria Centro,ERICSSON,39.756841,-8.804647,8,2,normalized time-series kmeans
+DPT041,B1,Porto Ribeira,ERICSSON,41.140547,-8.613369,3,11,normalized time-series kmeans
+MPT329,B1,Porto Ribeira,ERICSSON,41.144761,-8.610139,3,11,normalized time-series kmeans
+MPT332,B1,Porto Ribeira,ERICSSON,41.14696,-8.615822,10,0,normalized time-series kmeans
+MPT337,B1,Porto Ribeira,ERICSSON,41.147441,-8.619608,10,0,normalized time-series kmeans
+MPT328,B1,Porto Ribeira,ERICSSON,41.147526,-8.601935,5,1,normalized time-series kmeans
+MPT320,B1,Porto Ribeira,ERICSSON,41.147416,-8.609289,5,1,normalized time-series kmeans
+DPT025,B1,Porto Ribeira,ERICSSON,41.148924,-8.610555,3,11,normalized time-series kmeans
+MPT326,B1,Porto Ribeira,ERICSSON,41.148251,-8.614039,7,3,normalized time-series kmeans
+MPT321,B1,Porto Ribeira,ERICSSON,41.14417,-8.605721,8,2,normalized time-series kmeans
+MPT484,B1,Porto Ribeira,ERICSSON,41.146056,-8.594879,10,0,normalized time-series kmeans
+MPT327,B1,Porto Ribeira,ERICSSON,41.142598,-8.615085,8,2,normalized time-series kmeans
+MCO096,B1,Praia de Mira,ERICSSON,40.433077,-8.72897,14,9,normalized time-series kmeans
+MCO104,B1,Praia de Mira,ERICSSON,40.356527,-8.710234,2,8,normalized time-series kmeans
+MCO094,B1,Praia de Mira,ERICSSON,40.425891,-8.801474,3,11,normalized time-series kmeans
+MCO101,B1,Praia de Mira,ERICSSON,40.397762,-8.706711,11,7,normalized time-series kmeans
+MCO098,B1,Praia de Mira,ERICSSON,40.389902,-8.738781,14,9,normalized time-series kmeans
+MCO102,B1,Praia de Mira,ERICSSON,40.393396,-8.655722,3,11,normalized time-series kmeans
+MCO130,B1,Praia de Mira,ERICSSON,40.437351,-8.788284,3,11,normalized time-series kmeans
+MCO106,B1,Praia de Mira,ERICSSON,40.318246,-8.719544,0,6,normalized time-series kmeans
+MCO100,B1,Praia de Mira,ERICSSON,40.412576,-8.638028,14,9,normalized time-series kmeans
+MCO099,B1,Praia de Mira,ERICSSON,40.453796,-8.778961,11,7,normalized time-series kmeans
+MCO124,B1,Praia de Mira,ERICSSON,40.294198,-8.711626,0,6,normalized time-series kmeans
+DCO003,B1,Coimbra Centro,ERICSSON,40.205204,-8.426468,4,13,normalized time-series kmeans
+MCO048,B1,Coimbra Centro,ERICSSON,40.210637,-8.421028,10,0,normalized time-series kmeans
+MCO049,B1,Coimbra Centro,ERICSSON,40.206965,-8.416371,2,8,normalized time-series kmeans
+MCO047,B1,Coimbra Centro,ERICSSON,40.213124,-8.432065,10,0,normalized time-series kmeans
+MCO045,B1,Coimbra Centro,ERICSSON,40.209446,-8.431673,5,1,normalized time-series kmeans
+MCO044,B1,Coimbra Centro,ERICSSON,40.202418,-8.413367,5,1,normalized time-series kmeans
+MCO043,B1,Coimbra Centro,ERICSSON,40.1974,-8.411659,13,4,normalized time-series kmeans
+MCO131,B1,Coimbra Centro,ERICSSON,40.20022,-8.432056,6,10,normalized time-series kmeans
+MLR052,B1,Marinha Grande,ERICSSON,39.730171,-8.916396,14,9,normalized time-series kmeans
+MLR055,B1,Marinha Grande,ERICSSON,39.745732,-8.930931,7,3,normalized time-series kmeans
+MLR059,B1,Marinha Grande,ERICSSON,39.709954,-8.861392,0,6,normalized time-series kmeans
+MLR066,B1,Marinha Grande,ERICSSON,39.731385,-8.851181,3,11,normalized time-series kmeans
+MLR058,B1,Marinha Grande,ERICSSON,39.747888,-8.941668,2,8,normalized time-series kmeans
+MLR054,B1,Marinha Grande,ERICSSON,39.713282,-8.830004,14,9,normalized time-series kmeans
+MLR057,B1,Marinha Grande,ERICSSON,39.756734,-8.924203,7,3,normalized time-series kmeans
+MLR053,B1,Marinha Grande,ERICSSON,39.744735,-8.871372,14,9,normalized time-series kmeans
+MAV085,B1,Vale de Cambra,ERICSSON,40.845494,-8.412169,3,11,normalized time-series kmeans
+MAV102,B1,Vale de Cambra,ERICSSON,40.854152,-8.370736,14,9,normalized time-series kmeans
+MAV075,B1,Vale de Cambra,ERICSSON,40.89041,-8.408911,3,11,normalized time-series kmeans
+MAV076,B1,Vale de Cambra,ERICSSON,40.847552,-8.402613,14,9,normalized time-series kmeans
+MAV080,B1,Vale de Cambra,ERICSSON,40.880853,-8.443356,7,3,normalized time-series kmeans
+MAV088,B1,Vale de Cambra,ERICSSON,40.842653,-8.377237,0,6,normalized time-series kmeans
+MAV100,B1,Vale de Cambra,ERICSSON,40.911722,-8.430083,7,3,normalized time-series kmeans
+MAV103,B1,Vale de Cambra,ERICSSON,40.86018,-8.39366,7,3,normalized time-series kmeans
+MPT167,B1,Castelo da Maia,ERICSSON,41.290898,-8.669187,12,5,normalized time-series kmeans
+MPT169,B1,Castelo da Maia,ERICSSON,41.258953,-8.615644,3,11,normalized time-series kmeans
+MPT164,B1,Castelo da Maia,ERICSSON,41.297223,-8.636858,14,9,normalized time-series kmeans
+MPT159,B1,Castelo da Maia,ERICSSON,41.260566,-8.637933,6,10,normalized time-series kmeans
+MPT172,B1,Castelo da Maia,ERICSSON,41.250911,-8.650125,7,3,normalized time-series kmeans
+MPT162,B1,Castelo da Maia,ERICSSON,41.247639,-8.664357,7,3,normalized time-series kmeans
+MPT173,B1,Castelo da Maia,ERICSSON,41.286841,-8.562644,13,4,normalized time-series kmeans
+MPT156,B1,Castelo da Maia,ERICSSON,41.272079,-8.577563,14,9,normalized time-series kmeans
+MPT160,B1,Castelo da Maia,ERICSSON,41.268967,-8.612146,6,10,normalized time-series kmeans
+MCO019,B1,Condeixa a Nova,ERICSSON,40.06324,-8.427507,14,9,normalized time-series kmeans
+MCO026,B1,Condeixa a Nova,ERICSSON,40.112626,-8.49656,10,0,normalized time-series kmeans
+MCO024,B1,Condeixa a Nova,ERICSSON,40.128363,-8.522242,12,5,normalized time-series kmeans
+MCO020,B1,Condeixa a Nova,ERICSSON,40.103514,-8.487475,14,9,normalized time-series kmeans
+MCO021,B1,Condeixa a Nova,ERICSSON,40.101064,-8.401263,2,8,normalized time-series kmeans
+MCO022,B1,Condeixa a Nova,ERICSSON,40.134077,-8.394928,2,8,normalized time-series kmeans
+MCO023,B1,Condeixa a Nova,ERICSSON,40.100251,-8.531964,14,9,normalized time-series kmeans
+MCO018,B1,Condeixa a Nova,ERICSSON,40.12867,-8.492122,14,9,normalized time-series kmeans
+MCO025,B1,Condeixa a Nova,ERICSSON,40.132519,-8.470402,2,8,normalized time-series kmeans
+MCO064,B1,Figueira da Foz,ERICSSON,40.214203,-8.806982,2,8,normalized time-series kmeans
+MCO063,B1,Figueira da Foz,ERICSSON,40.143882,-8.752909,2,8,normalized time-series kmeans
+MCO065,B1,Figueira da Foz,ERICSSON,40.216698,-8.848531,13,4,normalized time-series kmeans
+MCO117,B1,Figueira da Foz,ERICSSON,40.185827,-8.808244,0,6,normalized time-series kmeans
+MCO071,B1,Figueira da Foz,ERICSSON,40.148984,-8.806345,2,8,normalized time-series kmeans
+MCO070,B1,Figueira da Foz,ERICSSON,40.174645,-8.787539,2,8,normalized time-series kmeans
+MCO062,B1,Figueira da Foz,ERICSSON,40.167812,-8.841358,2,8,normalized time-series kmeans
+MCO141,B1,Figueira da Foz,ERICSSON,40.174165,-8.883765,2,8,normalized time-series kmeans
+MCO060,B1,Figueira da Foz,ERICSSON,40.154747,-8.85333,2,8,normalized time-series kmeans
+MCO066,B1,Figueira da Foz,ERICSSON,40.150699,-8.866441,14,9,normalized time-series kmeans
+MCO061,B1,Figueira da Foz,ERICSSON,40.169779,-8.872217,2,8,normalized time-series kmeans
+MPT215,B1,Povoa do Varzim,ERICSSON,41.387744,-8.767275,8,2,normalized time-series kmeans
+MPT214,B1,Povoa do Varzim,ERICSSON,41.370078,-8.753133,8,2,normalized time-series kmeans
+MPT219,B1,Povoa do Varzim,ERICSSON,41.397621,-8.717106,2,8,normalized time-series kmeans
+MPT220,B1,Povoa do Varzim,ERICSSON,41.381571,-8.728668,14,9,normalized time-series kmeans
+MPT478,B1,Povoa do Varzim,ERICSSON,41.380807,-8.747127,7,3,normalized time-series kmeans
+MPT216,B1,Povoa do Varzim,ERICSSON,41.361697,-8.738878,5,1,normalized time-series kmeans
+MPT211,B1,Povoa do Varzim,ERICSSON,41.380465,-8.766644,11,7,normalized time-series kmeans
+MPT212,B1,Povoa do Varzim,ERICSSON,41.351984,-8.745874,11,7,normalized time-series kmeans
+MPT374,B1,Senhora da Hora,ERICSSON,41.193482,-8.663787,1,14,normalized time-series kmeans
+MPT380,B1,Senhora da Hora,ERICSSON,41.177669,-8.668303,6,10,normalized time-series kmeans
+MPT378,B1,Senhora da Hora,ERICSSON,41.176436,-8.64735,5,1,normalized time-series kmeans
+MPT383,B1,Senhora da Hora,ERICSSON,41.183889,-8.663836,10,0,normalized time-series kmeans
+MPT379,B1,Senhora da Hora,ERICSSON,41.191577,-8.656081,13,4,normalized time-series kmeans
+MPT370,B1,Senhora da Hora,ERICSSON,41.170276,-8.659972,10,0,normalized time-series kmeans
+MPT373,B1,Senhora da Hora,ERICSSON,41.199214,-8.672215,2,8,normalized time-series kmeans
+MPT382,B1,Senhora da Hora,ERICSSON,41.177555,-8.66332,6,10,normalized time-series kmeans
+MPT372,B1,Senhora da Hora,ERICSSON,41.200563,-8.661019,7,3,normalized time-series kmeans
+MPT366,B1,Senhora da Hora,ERICSSON,41.186381,-8.654715,10,0,normalized time-series kmeans
+MPT506,B1,Senhora da Hora,ERICSSON,41.175501,-8.655201,10,0,normalized time-series kmeans
+MPT246,B1,Castelo de Paiva,ERICSSON,41.086749,-8.250928,7,3,normalized time-series kmeans
+MPT242,B1,Castelo de Paiva,ERICSSON,41.117477,-8.213404,11,7,normalized time-series kmeans
+MPT243,B1,Castelo de Paiva,ERICSSON,41.047348,-8.348634,0,6,normalized time-series kmeans
+MPT236,B1,Castelo de Paiva,ERICSSON,41.15432,-8.24724,2,8,normalized time-series kmeans
+MPT239,B1,Castelo de Paiva,ERICSSON,41.087703,-8.268943,0,6,normalized time-series kmeans
+MAV032,B1,Castelo de Paiva,ERICSSON,41.049285,-8.312099,0,6,normalized time-series kmeans
+MVI001,B1,Castelo de Paiva,ERICSSON,41.065349,-8.233437,0,6,normalized time-series kmeans
+MPT248,B1,Castelo de Paiva,ERICSSON,41.125036,-8.302576,2,8,normalized time-series kmeans
+MAV031,B1,Castelo de Paiva,ERICSSON,41.032341,-8.38817,0,6,normalized time-series kmeans
+MPT249,B1,Castelo de Paiva,ERICSSON,41.11446,-8.269425,13,4,normalized time-series kmeans
+MPT233,B1,Castelo de Paiva,ERICSSON,41.142145,-8.280195,2,8,normalized time-series kmeans
+MPT088,B1,Leca da Palmeira,ERICSSON,41.20413,-8.689471,8,2,normalized time-series kmeans
+MPT076,B1,Leca da Palmeira,ERICSSON,41.202837,-8.712055,11,7,normalized time-series kmeans
+MPT087,B1,Leca da Palmeira,ERICSSON,41.221924,-8.662078,7,3,normalized time-series kmeans
+MPT074,B1,Leca da Palmeira,ERICSSON,41.214682,-8.677778,8,2,normalized time-series kmeans
+MPT081,B1,Leca da Palmeira,ERICSSON,41.223187,-8.681733,10,0,normalized time-series kmeans
+MPT091,B1,Leca da Palmeira,ERICSSON,41.22117,-8.695332,12,5,normalized time-series kmeans
+MPT082,B1,Leca da Palmeira,ERICSSON,41.204305,-8.69776,8,2,normalized time-series kmeans
+MPT077,B1,Leca da Palmeira,ERICSSON,41.23502,-8.667977,10,0,normalized time-series kmeans
+MPT089,B1,Leca da Palmeira,ERICSSON,41.234634,-8.653254,10,0,normalized time-series kmeans
+MPT080,B1,Leca da Palmeira,ERICSSON,41.209266,-8.655345,5,1,normalized time-series kmeans
+MCO034,B1,Montemor o Velho,ERICSSON,40.178012,-8.678214,14,9,normalized time-series kmeans
+MCO033,B1,Montemor o Velho,ERICSSON,40.265012,-8.717411,2,8,normalized time-series kmeans
+MCO037,B1,Montemor o Velho,ERICSSON,40.116795,-8.632466,0,6,normalized time-series kmeans
+MCO036,B1,Montemor o Velho,ERICSSON,40.219299,-8.593482,13,4,normalized time-series kmeans
+MCO031,B1,Montemor o Velho,ERICSSON,40.174339,-8.705303,0,6,normalized time-series kmeans
+MCO032,B1,Montemor o Velho,ERICSSON,40.231672,-8.667804,13,4,normalized time-series kmeans
+MCO118,B1,Montemor o Velho,ERICSSON,40.231011,-8.775007,3,11,normalized time-series kmeans
+MCO030,B1,Montemor o Velho,ERICSSON,40.21998,-8.548688,2,8,normalized time-series kmeans
+MCO038,B1,Montemor o Velho,ERICSSON,40.257863,-8.763725,13,4,normalized time-series kmeans
+MCO035,B1,Montemor o Velho,ERICSSON,40.14975,-8.637642,14,9,normalized time-series kmeans
+MLR047,B1,Vieira de Leiria,ERICSSON,39.851173,-8.874015,14,9,normalized time-series kmeans
+MLR044,B1,Vieira de Leiria,ERICSSON,39.785627,-8.867711,12,5,normalized time-series kmeans
+MLR042,B1,Vieira de Leiria,ERICSSON,39.825561,-8.932686,11,7,normalized time-series kmeans
+MLR046,B1,Vieira de Leiria,ERICSSON,39.791921,-8.829658,2,8,normalized time-series kmeans
+MLR043,B1,Vieira de Leiria,ERICSSON,39.876303,-8.970489,13,4,normalized time-series kmeans
+MLR048,B1,Vieira de Leiria,ERICSSON,39.794346,-8.924412,0,6,normalized time-series kmeans
+MLR050,B1,Vieira de Leiria,ERICSSON,39.86921,-8.925055,11,7,normalized time-series kmeans
+MLR049,B1,Vieira de Leiria,ERICSSON,39.838702,-8.830536,13,4,normalized time-series kmeans
+MLR045,B1,Vieira de Leiria,ERICSSON,39.801271,-8.877913,2,8,normalized time-series kmeans
+MLR051,B1,Vieira de Leiria,ERICSSON,39.764561,-8.825873,5,1,normalized time-series kmeans
+MAV152,B1,Gafanha da Nazare,ERICSSON,40.588374,-8.67408,14,9,normalized time-series kmeans
+MAV135,B1,Gafanha da Nazare,ERICSSON,40.55921,-8.753054,0,6,normalized time-series kmeans
+MAV129,B1,Gafanha da Nazare,ERICSSON,40.638564,-8.742923,11,7,normalized time-series kmeans
+MAV223,B1,Gafanha da Nazare,ERICSSON,40.635675,-8.697443,8,2,normalized time-series kmeans
+MAV125,B1,Gafanha da Nazare,ERICSSON,40.613216,-8.752134,11,7,normalized time-series kmeans
+MAV128,B1,Gafanha da Nazare,ERICSSON,40.60084,-8.666952,8,2,normalized time-series kmeans
+MAV146,B1,Gafanha da Nazare,ERICSSON,40.616887,-8.718676,14,9,normalized time-series kmeans
+MPT066,B1,Pacos de Ferreira,ERICSSON,41.287386,-8.342133,3,11,normalized time-series kmeans
+MPT071,B1,Pacos de Ferreira,ERICSSON,41.274433,-8.394607,0,6,normalized time-series kmeans
+MPT056,B1,Pacos de Ferreira,ERICSSON,41.264738,-8.431155,12,5,normalized time-series kmeans
+MPT067,B1,Pacos de Ferreira,ERICSSON,41.277919,-8.364628,8,2,normalized time-series kmeans
+MPT062,B1,Pacos de Ferreira,ERICSSON,41.234741,-8.360524,2,8,normalized time-series kmeans
+MPT064,B1,Pacos de Ferreira,ERICSSON,41.229746,-8.321986,2,8,normalized time-series kmeans
+MPT050,B1,Pacos de Ferreira,ERICSSON,41.277832,-8.374016,13,4,normalized time-series kmeans
+MPT072,B1,Pacos de Ferreira,ERICSSON,41.258803,-8.354631,14,9,normalized time-series kmeans
+MPT058,B1,Pacos de Ferreira,ERICSSON,41.250897,-8.403489,12,5,normalized time-series kmeans
+MPT063,B1,Pacos de Ferreira,ERICSSON,41.289496,-8.384961,5,1,normalized time-series kmeans
+MPT060,B1,Pacos de Ferreira,ERICSSON,41.270294,-8.341349,13,4,normalized time-series kmeans
+MPT057,B1,Pacos de Ferreira,ERICSSON,41.278533,-8.423047,12,5,normalized time-series kmeans
+MCO073,B1,Sao Joao do Campo,ERICSSON,40.247444,-8.48899,2,8,normalized time-series kmeans
+MCO079,B1,Sao Joao do Campo,ERICSSON,40.241738,-8.445193,7,3,normalized time-series kmeans
+MCO072,B1,Sao Joao do Campo,ERICSSON,40.280489,-8.520384,14,9,normalized time-series kmeans
+MCO075,B1,Sao Joao do Campo,ERICSSON,40.236823,-8.403136,12,5,normalized time-series kmeans
+MCO077,B1,Sao Joao do Campo,ERICSSON,40.281223,-8.479607,9,12,normalized time-series kmeans
+MCO074,B1,Sao Joao do Campo,ERICSSON,40.253122,-8.415198,13,4,normalized time-series kmeans
+MCO080,B1,Sao Joao do Campo,ERICSSON,40.194235,-8.37327,0,6,normalized time-series kmeans
+MCO076,B1,Sao Joao do Campo,ERICSSON,40.271005,-8.455704,13,4,normalized time-series kmeans
+MCO081,B1,Sao Joao do Campo,ERICSSON,40.232421,-8.515128,12,5,normalized time-series kmeans
+MCO078,B1,Sao Joao do Campo,ERICSSON,40.268052,-8.408484,12,5,normalized time-series kmeans
+MPT285,B1,Vila Nova de Gaia,ERICSSON,41.135979,-8.607748,8,2,normalized time-series kmeans
+MPT485,B1,Vila Nova de Gaia,ERICSSON,41.129009,-8.593698,5,1,normalized time-series kmeans
+MPT277,B1,Vila Nova de Gaia,ERICSSON,41.137902,-8.588339,5,1,normalized time-series kmeans
+MPT278,B1,Vila Nova de Gaia,ERICSSON,41.124866,-8.605694,10,0,normalized time-series kmeans
+MPT289,B1,Vila Nova de Gaia,ERICSSON,41.122597,-8.611342,6,10,normalized time-series kmeans
+MPT288,B1,Vila Nova de Gaia,ERICSSON,41.121908,-8.602054,6,10,normalized time-series kmeans
+MPT287,B1,Vila Nova de Gaia,ERICSSON,41.135332,-8.616235,8,2,normalized time-series kmeans
+MPT294,B1,Vila Nova de Gaia,ERICSSON,41.128728,-8.610317,7,3,normalized time-series kmeans
+MPT290,B1,Vila Nova de Gaia,ERICSSON,41.129126,-8.616247,10,0,normalized time-series kmeans
+MPT279,B1,Vila Nova de Gaia,ERICSSON,41.126097,-8.589306,7,3,normalized time-series kmeans
+MAV163,B1,Albergaria a Velha,ERICSSON,40.708931,-8.493554,9,12,normalized time-series kmeans
+MAV172,B1,Albergaria a Velha,ERICSSON,40.723281,-8.556176,3,11,normalized time-series kmeans
+MAV176,B1,Albergaria a Velha,ERICSSON,40.687243,-8.521409,14,9,normalized time-series kmeans
+MAV169,B1,Albergaria a Velha,ERICSSON,40.679657,-8.489502,14,9,normalized time-series kmeans
+MAV154,B1,Albergaria a Velha,ERICSSON,40.757522,-8.48463,13,4,normalized time-series kmeans
+MAV153,B1,Albergaria a Velha,ERICSSON,40.717765,-8.521545,3,11,normalized time-series kmeans
+MAV162,B1,Albergaria a Velha,ERICSSON,40.692677,-8.555669,0,6,normalized time-series kmeans
+MAV171,B1,Albergaria a Velha,ERICSSON,40.738821,-8.54244,14,9,normalized time-series kmeans
+MAV183,B1,Albergaria a Velha,ERICSSON,40.685811,-8.469952,12,5,normalized time-series kmeans
+MAV173,B1,Albergaria a Velha,ERICSSON,40.695155,-8.53301,3,11,normalized time-series kmeans
+MAV155,B1,Albergaria a Velha,ERICSSON,40.702654,-8.485124,14,9,normalized time-series kmeans
+MPT269,B1,Marco de Canaveses,ERICSSON,41.223312,-8.251639,12,5,normalized time-series kmeans
+MPT262,B1,Marco de Canaveses,ERICSSON,41.214212,-8.171199,2,8,normalized time-series kmeans
+MPT266,B1,Marco de Canaveses,ERICSSON,41.204618,-8.12471,0,6,normalized time-series kmeans
+MPT271,B1,Marco de Canaveses,ERICSSON,41.175586,-8.162316,14,9,normalized time-series kmeans
+MPT265,B1,Marco de Canaveses,ERICSSON,41.221066,-8.225957,2,8,normalized time-series kmeans
+MPT268,B1,Marco de Canaveses,ERICSSON,41.250558,-8.25837,0,6,normalized time-series kmeans
+MPT258,B1,Marco de Canaveses,ERICSSON,41.191029,-8.145651,5,1,normalized time-series kmeans
+MAV136,B1,Oliveira do Bairro,ERICSSON,40.497554,-8.531811,3,11,normalized time-series kmeans
+MAV127,B1,Oliveira do Bairro,ERICSSON,40.471767,-8.522222,2,8,normalized time-series kmeans
+MAV126,B1,Oliveira do Bairro,ERICSSON,40.523353,-8.551653,2,8,normalized time-series kmeans
+MAV140,B1,Oliveira do Bairro,ERICSSON,40.458396,-8.462214,7,3,normalized time-series kmeans
+MAV133,B1,Oliveira do Bairro,ERICSSON,40.553929,-8.535836,13,4,normalized time-series kmeans
+MAV131,B1,Oliveira do Bairro,ERICSSON,40.514565,-8.493979,5,1,normalized time-series kmeans
+MAV123,B1,Oliveira do Bairro,ERICSSON,40.505394,-8.446709,14,9,normalized time-series kmeans
+MAV184,B1,Oliveira do Bairro,ERICSSON,40.510061,-8.432626,0,6,normalized time-series kmeans
+MAV134,B1,Oliveira do Bairro,ERICSSON,40.558947,-8.554015,12,5,normalized time-series kmeans
+MAV132,B1,Oliveira do Bairro,ERICSSON,40.488174,-8.409458,2,8,normalized time-series kmeans
+MAV149,B1,Oliveira do Bairro,ERICSSON,40.566534,-8.52729,13,4,normalized time-series kmeans
+MCO003,B1,Coimbra Santa Clara,ERICSSON,40.196334,-8.464901,13,4,normalized time-series kmeans
+MCO002,B1,Coimbra Santa Clara,ERICSSON,40.179269,-8.443658,0,6,normalized time-series kmeans
+MCO009,B1,Coimbra Santa Clara,ERICSSON,40.20983,-8.457157,3,11,normalized time-series kmeans
+MCO112,B1,Coimbra Santa Clara,ERICSSON,40.201416,-8.46213,0,6,normalized time-series kmeans
+MCO005,B1,Coimbra Santa Clara,ERICSSON,40.172347,-8.49404,12,5,normalized time-series kmeans
+MCO001,B1,Coimbra Santa Clara,ERICSSON,40.173904,-8.406354,12,5,normalized time-series kmeans
+MCO007,B1,Coimbra Santa Clara,ERICSSON,40.19506,-8.443165,5,1,normalized time-series kmeans
+MCO006,B1,Coimbra Santa Clara,ERICSSON,40.156202,-8.458136,12,5,normalized time-series kmeans
+MAV055,B1,Oliveira de Azemeis,ERICSSON,40.83811,-8.449265,5,1,normalized time-series kmeans
+MAV073,B1,Oliveira de Azemeis,ERICSSON,40.81161,-8.504569,14,9,normalized time-series kmeans
+MAV063,B1,Oliveira de Azemeis,ERICSSON,40.849888,-8.485315,8,2,normalized time-series kmeans
+MAV058,B1,Oliveira de Azemeis,ERICSSON,40.839413,-8.527895,7,3,normalized time-series kmeans
+MAV218,B1,Oliveira de Azemeis,ERICSSON,40.845089,-8.556279,14,9,normalized time-series kmeans
+MAV064,B1,Oliveira de Azemeis,ERICSSON,40.785137,-8.491575,3,11,normalized time-series kmeans
+MAV219,B1,Oliveira de Azemeis,ERICSSON,40.839258,-8.47999,9,12,normalized time-series kmeans
+MAV056,B1,Oliveira de Azemeis,ERICSSON,40.85027,-8.464326,5,1,normalized time-series kmeans
+MAV167,B1,Sao Joao da Madeira,ERICSSON,40.917672,-8.494955,7,3,normalized time-series kmeans
+MAV178,B1,Sao Joao da Madeira,ERICSSON,40.906331,-8.490719,7,3,normalized time-series kmeans
+MAV161,B1,Sao Joao da Madeira,ERICSSON,40.872004,-8.512331,14,9,normalized time-series kmeans
+MAV181,B1,Sao Joao da Madeira,ERICSSON,40.924849,-8.515375,7,3,normalized time-series kmeans
+MAV166,B1,Sao Joao da Madeira,ERICSSON,40.898425,-8.490271,7,3,normalized time-series kmeans
+MAV165,B1,Sao Joao da Madeira,ERICSSON,40.881005,-8.473976,14,9,normalized time-series kmeans
+MAV159,B1,Sao Joao da Madeira,ERICSSON,40.891556,-8.5155,7,3,normalized time-series kmeans
+MAV225,B1,Sao Joao da Madeira,ERICSSON,40.885346,-8.492508,7,3,normalized time-series kmeans
+MAV180,B1,Sao Joao da Madeira,ERICSSON,40.914236,-8.530166,13,4,normalized time-series kmeans
+MAV179,B1,Pessegueiro do Vouga,ERICSSON,40.662231,-8.390382,2,8,normalized time-series kmeans
+MAV175,B1,Pessegueiro do Vouga,ERICSSON,40.675841,-8.419708,11,7,normalized time-series kmeans
+MAV164,B1,Pessegueiro do Vouga,ERICSSON,40.709484,-8.366026,12,5,normalized time-series kmeans
+MAV174,B1,Pessegueiro do Vouga,ERICSSON,40.661958,-8.515296,2,8,normalized time-series kmeans
+MAV156,B1,Pessegueiro do Vouga,ERICSSON,40.731496,-8.376641,13,4,normalized time-series kmeans
+MAV168,B1,Pessegueiro do Vouga,ERICSSON,40.739761,-8.437049,2,8,normalized time-series kmeans
+MAV158,B1,Pessegueiro do Vouga,ERICSSON,40.658512,-8.473079,2,8,normalized time-series kmeans
+MAV160,B1,Pessegueiro do Vouga,ERICSSON,40.648332,-8.370614,0,6,normalized time-series kmeans
+MAV170,B1,Pessegueiro do Vouga,ERICSSON,40.659331,-8.335177,12,5,normalized time-series kmeans
+MAV177,B1,Pessegueiro do Vouga,ERICSSON,40.673461,-8.312769,13,4,normalized time-series kmeans
+MAV041,B1,Santa Maria da Feira,ERICSSON,40.892756,-8.573077,14,9,normalized time-series kmeans
+MAV044,B1,Santa Maria da Feira,ERICSSON,40.970998,-8.565026,14,9,normalized time-series kmeans
+MAV045,B1,Santa Maria da Feira,ERICSSON,40.932856,-8.548769,5,1,normalized time-series kmeans
+MAV207,B1,Santa Maria da Feira,ERICSSON,40.958855,-8.535593,7,3,normalized time-series kmeans
+MAV034,B1,Santa Maria da Feira,ERICSSON,40.86658,-8.552182,14,9,normalized time-series kmeans
+MAV039,B1,Santa Maria da Feira,ERICSSON,40.92401,-8.562092,10,0,normalized time-series kmeans
+MAV051,B1,Santa Maria da Feira,ERICSSON,40.866678,-8.535875,7,3,normalized time-series kmeans
+MAV049,B1,Santa Maria da Feira,ERICSSON,40.954824,-8.552074,7,3,normalized time-series kmeans
+MAV205,B1,Santa Maria da Feira,ERICSSON,40.945739,-8.573605,14,9,normalized time-series kmeans
+DPT004,B1-Dedicados,Maia,ERICSSON,41.236594,-8.596694,1,14,normalized time-series kmeans
+DAV001,B1-Dedicados,Ovar,ERICSSON,40.875661,-8.634247,1,14,normalized time-series kmeans
+DPT035,B1-Dedicados,Antas,ERICSSON,41.162623,-8.584239,4,13,normalized time-series kmeans
+DPT079,B1-Dedicados,Antas,ERICSSON,41.162623,-8.584239,3,11,normalized time-series kmeans
+DPT031,B1-Dedicados,Antas,ERICSSON,41.163809,-8.58329,6,10,normalized time-series kmeans
+DPT032,B1-Dedicados,Antas,ERICSSON,41.161845,-8.583398,4,13,normalized time-series kmeans
+DPT042,B1-Dedicados,Antas,ERICSSON,41.165467,-8.588619,9,12,normalized time-series kmeans
+DBR005,B1-Dedicados,Brito,ERICSSON,41.448831,-8.343006,14,9,normalized time-series kmeans
+DBR019,B1-Dedicados,Trofa,ERICSSON,41.348951,-8.579682,1,14,normalized time-series kmeans
+DBR013,B1-Dedicados,Amares,ERICSSON,41.578533,-8.430281,2,8,normalized time-series kmeans
+DBR012,B1-Dedicados,Amares,ERICSSON,41.567341,-8.399268,9,12,normalized time-series kmeans
+DPT043,B1-Dedicados,Areosa,ERICSSON,41.181178,-8.601601,6,10,normalized time-series kmeans
+DPT052,B1-Dedicados,Covelo,ERICSSON,41.160793,-8.628709,6,10,normalized time-series kmeans
+DPT078,B1-Dedicados,Afurada,ERICSSON,41.13577,-8.618704,9,12,normalized time-series kmeans
+DPT010,B1-Dedicados,Afurada,ERICSSON,41.141479,-8.636813,13,4,normalized time-series kmeans
+DPT011,B1-Dedicados,Afurada,ERICSSON,41.13984,-8.636846,1,14,normalized time-series kmeans
+DPT028,B1-Dedicados,Custoia,ERICSSON,41.214229,-8.626498,3,11,normalized time-series kmeans
+DPT014,B1-Dedicados,Mindelo,ERICSSON,41.301246,-8.706428,1,14,normalized time-series kmeans
+DPT013,B1-Dedicados,Mindelo,ERICSSON,41.323869,-8.717485,9,12,normalized time-series kmeans
+DPT017,B1-Dedicados,Valongo,ERICSSON,41.198112,-8.491684,3,11,normalized time-series kmeans
+DPT062,B1-Dedicados,Boavista,ERICSSON,41.146886,-8.626047,3,11,normalized time-series kmeans
+DPT063,B1-Dedicados,Boavista,ERICSSON,41.154951,-8.629779,13,4,normalized time-series kmeans
+DPT060,B1-Dedicados,Boavista,ERICSSON,41.156727,-8.630412,9,12,normalized time-series kmeans
+DPT061,B1-Dedicados,Boavista,ERICSSON,41.156966,-8.626132,9,12,normalized time-series kmeans
+DPT064,B1-Dedicados,Boavista,ERICSSON,41.1592,-8.63171,9,12,normalized time-series kmeans
+DPT059,B1-Dedicados,Boavista,ERICSSON,41.158909,-8.630913,1,14,normalized time-series kmeans
+DPT065,B1-Dedicados,Boavista,ERICSSON,41.157315,-8.628133,9,12,normalized time-series kmeans
+DPT015,B1-Dedicados,Madalena,ERICSSON,41.118725,-8.620036,1,14,normalized time-series kmeans
+DPT071,B1-Dedicados,Penafiel,ERICSSON,41.19708,-8.309655,3,11,normalized time-series kmeans
+DPT005,B1-Dedicados,Ermesinde,ERICSSON,41.219542,-8.562011,2,8,normalized time-series kmeans
+DBR017,B1-Dedicados,Guimaraes,ERICSSON,41.43533,-8.306337,9,12,normalized time-series kmeans
+DBR003,B1-Dedicados,Guimaraes,ERICSSON,41.440046,-8.304156,10,0,normalized time-series kmeans
+DBR001,B1-Dedicados,Guimaraes,ERICSSON,41.445201,-8.301587,4,13,normalized time-series kmeans
+DPT012,B1-Dedicados,Rebordosa,ERICSSON,41.237165,-8.494758,1,14,normalized time-series kmeans
+DPT002,B1-Dedicados,Rio Tinto,ERICSSON,41.175161,-8.565432,6,10,normalized time-series kmeans
+DBR007,B1-Dedicados,Braga Este,ERICSSON,41.531235,-8.424739,1,14,normalized time-series kmeans
+DBR008,B1-Dedicados,Braga Este,ERICSSON,41.557984,-8.406418,12,5,normalized time-series kmeans
+DBR006,B1-Dedicados,Braga Este,ERICSSON,41.541193,-8.400925,14,9,normalized time-series kmeans
+DBR011,B1-Dedicados,Braga Oeste,ERICSSON,41.553127,-8.427363,9,12,normalized time-series kmeans
+DBR009,B1-Dedicados,Braga Oeste,ERICSSON,41.552842,-8.422725,9,12,normalized time-series kmeans
+DAV003,B1-Dedicados,Aveiro Norte,ERICSSON,40.647743,-8.595068,6,10,normalized time-series kmeans
+DAV004,B1-Dedicados,Aveiro Norte,ERICSSON,40.626688,-8.64488,1,14,normalized time-series kmeans
+DPT049,B1-Dedicados,Campo Alegre,ERICSSON,41.159477,-8.639551,1,14,normalized time-series kmeans
+DPT047,B1-Dedicados,Campo Alegre,ERICSSON,41.162614,-8.643384,6,10,normalized time-series kmeans
+DPT046,B1-Dedicados,Campo Alegre,ERICSSON,41.150684,-8.641947,9,12,normalized time-series kmeans
+DPT044,B1-Dedicados,Campo Alegre,ERICSSON,41.154617,-8.649815,9,12,normalized time-series kmeans
+DPT045,B1-Dedicados,Campo Alegre,ERICSSON,41.159168,-8.659505,4,13,normalized time-series kmeans
+DPT048,B1-Dedicados,Campo Alegre,ERICSSON,41.161245,-8.640578,9,12,normalized time-series kmeans
+DCO004,B1-Dedicados,Coimbra Este,ERICSSON,40.203549,-8.409045,9,12,normalized time-series kmeans
+DCO002,B1-Dedicados,Coimbra Este,ERICSSON,40.222854,-8.415835,3,11,normalized time-series kmeans
+DCO005,B1-Dedicados,Coimbra Este,ERICSSON,40.203399,-8.407789,3,11,normalized time-series kmeans
+DPT024,B1-Dedicados,Porto Centro,ERICSSON,41.151583,-8.611028,1,14,normalized time-series kmeans
+DPT022,B1-Dedicados,Porto Centro,ERICSSON,41.151004,-8.599817,1,14,normalized time-series kmeans
+DLR001,B1-Dedicados,Leiria Centro,ERICSSON,39.74971,-8.812907,1,14,normalized time-series kmeans
+DPT083,B1-Dedicados,Porto Ribeira,ERICSSON,41.146155,-8.61218,1,14,normalized time-series kmeans
+DPT023,B1-Dedicados,Porto Ribeira,ERICSSON,41.149979,-8.610727,9,12,normalized time-series kmeans
+DPT040,B1-Dedicados,Porto Ribeira,ERICSSON,41.149115,-8.605703,7,3,normalized time-series kmeans
+DPT038,B1-Dedicados,Porto Ribeira,ERICSSON,41.148508,-8.617981,1,14,normalized time-series kmeans
+DPT039,B1-Dedicados,Porto Ribeira,ERICSSON,41.150085,-8.604971,9,12,normalized time-series kmeans
+DLR002,B1-Dedicados,Marinha Grande,ERICSSON,39.733483,-8.824248,1,14,normalized time-series kmeans
+DPT081,B1-Dedicados,Castelo da Maia,ERICSSON,41.255633,-8.653633,1,14,normalized time-series kmeans
+DPT082,B1-Dedicados,Povoa do Varzim,ERICSSON,41.394509,-8.764344,12,5,normalized time-series kmeans
+DPT056,B1-Dedicados,Senhora da Hora,ERICSSON,41.176336,-8.647363,1,14,normalized time-series kmeans
+DPT051,B1-Dedicados,Senhora da Hora,ERICSSON,41.182548,-8.658108,12,5,normalized time-series kmeans
+DPT057,B1-Dedicados,Senhora da Hora,ERICSSON,41.183058,-8.650772,4,13,normalized time-series kmeans
+DPT054,B1-Dedicados,Senhora da Hora,ERICSSON,41.180954,-8.654968,1,14,normalized time-series kmeans
+DPT058,B1-Dedicados,Senhora da Hora,ERICSSON,41.180463,-8.656759,9,12,normalized time-series kmeans
+DPT053,B1-Dedicados,Senhora da Hora,ERICSSON,41.180172,-8.655581,1,14,normalized time-series kmeans
+DPT050,B1-Dedicados,Senhora da Hora,ERICSSON,41.175987,-8.669277,9,12,normalized time-series kmeans
+DPT026,B1-Dedicados,Senhora da Hora,ERICSSON,41.181933,-8.651088,4,13,normalized time-series kmeans
+DPT007,B1-Dedicados,Leca da Palmeira,ERICSSON,41.208972,-8.687969,12,5,normalized time-series kmeans
+DPT027,B1-Dedicados,Leca da Palmeira,ERICSSON,41.221514,-8.709897,6,10,normalized time-series kmeans
+DPT006,B1-Dedicados,Leca da Palmeira,ERICSSON,41.200781,-8.690167,9,12,normalized time-series kmeans
+DPT003,B1-Dedicados,Pacos de Ferreira,ERICSSON,41.285072,-8.36143,9,12,normalized time-series kmeans
+DCO007,B1-Dedicados,Sao Joao do Campo,ERICSSON,40.243616,-8.444202,9,12,normalized time-series kmeans
+DPT018,B1-Dedicados,Vila Nova de Gaia,ERICSSON,41.125701,-8.604962,3,11,normalized time-series kmeans
+DPT019,B1-Dedicados,Vila Nova de Gaia,ERICSSON,41.13715,-8.61831,7,3,normalized time-series kmeans
+DPT020,B1-Dedicados,Vila Nova de Gaia,ERICSSON,41.133836,-8.613265,1,14,normalized time-series kmeans
+DPT021,B1-Dedicados,Vila Nova de Gaia,ERICSSON,41.135262,-8.613888,6,10,normalized time-series kmeans
+DCO001,B1-Dedicados,Coimbra Santa Clara,ERICSSON,40.211619,-8.443006,1,14,normalized time-series kmeans
+DAV006,B1-Dedicados,Sao Joao da Madeira,ERICSSON,40.888518,-8.491971,3,11,normalized time-series kmeans
+DAV005,B1-Dedicados,Santa Maria da Feira,ERICSSON,40.935969,-8.578002,1,14,normalized time-series kmeans
