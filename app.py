@@ -29,7 +29,6 @@ COLOR_PALETTE = [
 ]
 
 
-
 @st.cache
 def load_data() -> pd.DataFrame:
     file_names = ["cluster_coords_norm.csv", "cluster_coords.csv"]
@@ -42,21 +41,45 @@ def load_data() -> pd.DataFrame:
     return pd.concat(dfs, ignore_index=True)
 
 
+@st.cache
+def _sort_cluster_id_labels(df: pd.DataFrame) -> pd.DataFrame:
+    """Sort cluster ids based on the cluster rank."""
+    _df = df.copy()
+    _df = _df[["cluster_type", "cluster_id", "cluster_rank"]].drop_duplicates()
+    _df = _df.sort_values(by=["cluster_type", "cluster_rank"])
+    return _df
+
+
 def display_cluster_type(df: pd.DataFrame) -> None:
     """Display cluster type selection."""
     cluster_type = st.sidebar.selectbox(
         "Select cluster type",
         df["cluster_type"].unique(),
+        help=(
+            "Normalized time-series kmeans: clusters that priorize the shape of "
+            " behavior of the power consumption, in lieu of their amount.\n"
+            "Non-normalized time-series kmeans: clusters that priorize the amount of"
+            " the power consumption in lieu of their trends and sazonalities."
+        ),
     )
     return cluster_type
 
 
 def display_cluster_id(df: pd.DataFrame, cluster_type: str) -> None:
     """Display cluster id selection."""
+    sorted_labels = _sort_cluster_id_labels(df)
+    options = sorted_labels[sorted_labels["cluster_type"] == cluster_type][
+        "cluster_id"
+    ].unique()
     cluster_id = st.sidebar.multiselect(
-        "Select cluster id",
-        options=df[df["cluster_type"] == cluster_type]["cluster_id"].unique(),
-        default=None
+        label="Select cluster id",
+        options=options,
+        default=None,
+        help=(
+            "Select one or more cluster ids to display on the map.\n"
+            "Cluster IDs are sorted by the average hourly power consumption of the"
+            "sites in the cluster."
+        ),
     )
     return cluster_id
 
@@ -102,7 +125,7 @@ def display_map(df: pd.DataFrame, cluster_type: str, cluster_id: int = None) -> 
             fill=True,
             radius=3,
         ).add_to(map)
-    
+
     st_folium(map)
 
 
