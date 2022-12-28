@@ -23,7 +23,7 @@ COLOR_PALETTE = [
     "darkgreen",
     "cadetblue",
     "darkpurple",
-    "white",
+    "lightblue",
     "pink",
     "gray",
 ]
@@ -42,12 +42,12 @@ def load_data() -> pd.DataFrame:
 
 
 @st.cache
-def _sort_cluster_id_labels(df: pd.DataFrame) -> pd.DataFrame:
+def _get_sorted_cluster_ids(df: pd.DataFrame, cluster_type: str) -> pd.DataFrame:
     """Sort cluster ids based on the cluster rank."""
     _df = df.copy()
     _df = _df[["cluster_type", "cluster_id", "cluster_rank"]].drop_duplicates()
     _df = _df.sort_values(by=["cluster_type", "cluster_rank"])
-    return _df
+    return _df[_df["cluster_type"] == cluster_type]["cluster_id"].unique()
 
 
 def display_cluster_type(df: pd.DataFrame) -> None:
@@ -65,12 +65,31 @@ def display_cluster_type(df: pd.DataFrame) -> None:
     return cluster_type
 
 
+def display_legend(df: pd.DataFrame, cluster_type: str) -> None:
+    """Display legend."""
+    options = _get_sorted_cluster_ids(df, cluster_type)
+    st.sidebar.markdown(
+        """
+        **Legend**
+
+        Clusters are ordered by the average hourly power consumption of the sites in
+        the cluster.
+        """
+    )
+    # Display legend where the color of the marker is based on the series index
+    for i, cluster_id in enumerate(options):
+        st.sidebar.markdown(
+            f"""
+            <span style="color:{COLOR_PALETTE[i]};">●</span>
+            <span style="color:black;">Cluster {cluster_id}</span>
+            """,
+            unsafe_allow_html=True,
+        )
+
+
 def display_cluster_id(df: pd.DataFrame, cluster_type: str) -> None:
     """Display cluster id selection."""
-    sorted_labels = _sort_cluster_id_labels(df)
-    options = sorted_labels[sorted_labels["cluster_type"] == cluster_type][
-        "cluster_id"
-    ].unique()
+    options = _get_sorted_cluster_ids(df, cluster_type)
     cluster_id = st.sidebar.multiselect(
         label="Select cluster id",
         options=options,
@@ -138,9 +157,10 @@ def main():
     data = load_data()
     data_load_state.text("Loading data...done!")
 
-    # Display Filters and Map
+    # Side bar
     cluster_type = display_cluster_type(data)
     cluster_id = display_cluster_id(data, cluster_type)
+    display_legend(data, cluster_type)
 
     col1, col2 = st.columns(2)
     with col1:
