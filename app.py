@@ -31,7 +31,7 @@ COLOR_PALETTE = [
 
 @st.cache
 def load_data() -> pd.DataFrame:
-    file_names = ["cluster_coords_norm.csv", "cluster_coords.csv"]
+    file_names = ["cluster_coords.csv"]
     data_dir = Path("data")
     dfs: list[pd.DataFrame] = []
     for file_name in file_names:
@@ -105,8 +105,7 @@ def display_cluster_id(df: pd.DataFrame, cluster_type: str) -> None:
 
 def display_resumes(cluster_type: str) -> None:
     img_mapping = {
-        "normalized time-series kmeans": "cluster_norm.png",
-        "non-normalized time-series kmeans": "cluster_non_norm.png",
+        "normalized time-series kmeans": "cluster_plots.png",
     }
     img_dir = Path("img")
     st.image(str(img_dir / img_mapping[cluster_type]))
