@@ -17,7 +17,7 @@ COLOR_PALETTE = [
     "purple",
     "orange",
     "darkred",
-    "lightred",
+    "yellow",
     "beige",
     "darkblue",
     "darkgreen",
@@ -27,6 +27,7 @@ COLOR_PALETTE = [
     "pink",
     "gray",
 ]
+COLOR_DEFAULT = "black"
 
 
 @st.cache
@@ -123,6 +124,11 @@ def display_map(df: pd.DataFrame, cluster_type: str, cluster_id: int = None) -> 
         df = df[df["cluster_id"].isin(cluster_id)]
 
     # Diplay map
+    colors_enabled = not st.checkbox(
+        "Disable legend colors",
+        help="Makes it easier to see all markers on the map",
+        value=False,
+    )
     map = folium.Map(
         location=[df["latitude"].mean(), df["longitude"].mean()],
         zoom_start=9,
@@ -132,7 +138,9 @@ def display_map(df: pd.DataFrame, cluster_type: str, cluster_id: int = None) -> 
         # The color of the marker is based on the cluster rank, which is a
         # number between 0 and 14 that is assigned to each cluster based on
         # the average hourly power consumption of the sites in the cluster.
-        icon_color = COLOR_PALETTE[row[1]["cluster_rank"]]
+        icon_color = (
+            COLOR_PALETTE[row[1]["cluster_rank"]] if colors_enabled else COLOR_DEFAULT
+        )
         folium.CircleMarker(
             location=[row[1]["latitude"], row[1]["longitude"]],
             color=icon_color,
@@ -159,6 +167,7 @@ def main():
     # Side bar
     cluster_type = display_cluster_type(data)
     cluster_id = display_cluster_id(data, cluster_type)
+
     display_legend(data, cluster_type)
 
     col1, col2 = st.columns(2)
