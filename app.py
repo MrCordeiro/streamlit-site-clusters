@@ -32,7 +32,7 @@ COLOR_DEFAULT = "black"
 
 @st.cache
 def load_data() -> pd.DataFrame:
-    file_names = ["cluster_coords.csv"]
+    file_names = ["cluster_coords.csv", "cluster_coords_4g.csv"]
     data_dir = Path("data")
     dfs: list[pd.DataFrame] = []
     for file_name in file_names:
@@ -107,6 +107,7 @@ def display_cluster_id(df: pd.DataFrame, cluster_type: str) -> None:
 def display_resumes(cluster_type: str) -> None:
     img_mapping = {
         "normalized time-series kmeans": "cluster_plots.png",
+        "normalized time-series kmeans (4g)": "cluster_plots_4g.png",
     }
     img_dir = Path("img")
     st.image(str(img_dir / img_mapping[cluster_type]))
