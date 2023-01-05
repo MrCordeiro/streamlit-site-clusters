@@ -54,8 +54,9 @@ def _get_sorted_cluster_ids(df: pd.DataFrame, cluster_type: str) -> pd.DataFrame
 def display_cluster_type(df: pd.DataFrame) -> None:
     """Display cluster type selection."""
     cluster_type = st.sidebar.selectbox(
-        "Select cluster type",
-        df["cluster_type"].unique(),
+        label="Select cluster type",
+        options=df["cluster_type"].unique(),
+        index=1,
         help=(
             "Normalized time-series kmeans: clusters that priorize the shape of "
             " behavior of the power consumption, in lieu of their amount.\n"
@@ -106,8 +107,8 @@ def display_cluster_id(df: pd.DataFrame, cluster_type: str) -> None:
 
 def display_resumes(cluster_type: str) -> None:
     img_mapping = {
-        "normalized time-series kmeans": "cluster_plots.png",
         "normalized time-series kmeans (4g)": "cluster_plots_4g.png",
+        "normalized time-series kmeans": "cluster_plots.png",
     }
     img_dir = Path("img")
     st.image(str(img_dir / img_mapping[cluster_type]))
